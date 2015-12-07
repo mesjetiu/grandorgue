@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-07 15:25+0100\n"
-"PO-Revision-Date: 2015-12-07 15:25+0100\n"
+"PO-Revision-Date: 2015-12-07 18:11+0100\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,52 +18,52 @@ msgstr ""
 "Language: es_ES\n"
 
 msgid "Success"
-msgstr ""
+msgstr "Éxito"
 
 msgid "PortAudio not initialized"
-msgstr ""
+msgstr "PortAudio no inicializado"
 
 msgid "Unanticipated host error"
-msgstr ""
+msgstr "Error inesperado de servidor"
 
 msgid "Invalid number of channels"
-msgstr ""
+msgstr "Número de canales no válido"
 
 msgid "Invalid sample rate"
-msgstr ""
+msgstr "Frecuencia de muestreo no válida"
 
 msgid "Invalid device"
-msgstr ""
+msgstr "Dispositivo no válido"
 
 msgid "Invalid flag"
-msgstr ""
+msgstr "Flag no válido"
 
 msgid "Sample format not supported"
-msgstr ""
+msgstr "Formato de muestra no soportado"
 
 msgid "Illegal combination of I/O devices"
-msgstr ""
+msgstr "Combinación ilegal de dispositivos I/O"
 
 msgid "Insufficient memory"
-msgstr ""
+msgstr "Memoria insuficiente"
 
 msgid "Buffer too big"
-msgstr ""
+msgstr "Buffer demasiado grande"
 
 msgid "Buffer too small"
-msgstr ""
+msgstr "Buffer demasiado pequeño"
 
 msgid "No callback routine specified"
-msgstr ""
+msgstr "Ninguna rutina callback especificada"
 
 msgid "Invalid stream pointer"
-msgstr ""
+msgstr "Puntero de flujo no válido"
 
 msgid "Wait timed out"
 msgstr ""
 
 msgid "Internal PortAudio error"
-msgstr ""
+msgstr "Error interno de PortAudio"
 
 msgid "Device unavailable"
 msgstr ""
