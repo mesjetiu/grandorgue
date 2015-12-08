@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-07 15:25+0100\n"
-"PO-Revision-Date: 2015-12-07 18:11+0100\n"
+"PO-Revision-Date: 2015-12-08 13:01+0100\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -66,16 +66,16 @@ msgid "Internal PortAudio error"
 msgstr "Error interno de PortAudio"
 
 msgid "Device unavailable"
-msgstr ""
+msgstr "Dispositivo no disponible"
 
 msgid "Incompatible host API specific stream info"
 msgstr ""
 
 msgid "Stream is stopped"
-msgstr ""
+msgstr "El flujo está detenido"
 
 msgid "Stream is not stopped"
-msgstr ""
+msgstr "El flujo no está detenido"
 
 msgid "Input overflowed"
 msgstr ""
@@ -90,34 +90,34 @@ msgid "Invalid host API"
 msgstr ""
 
 msgid "Can't read from a callback stream"
-msgstr ""
+msgstr "No se puede leer desde el flujo callback"
 
 msgid "Can't write to a callback stream"
-msgstr ""
+msgstr "No se puede escribir al flujo callback"
 
 msgid "Can't read from an output only stream"
-msgstr ""
+msgstr "No se puede leer desde el flujo de sólo salida"
 
 msgid "Can't write to an input only stream"
-msgstr ""
+msgstr "No se puede escribir a un flujo de sólo entrada"
 
 msgid "Incompatible stream host API"
 msgstr ""
 
 msgid "Bad buffer pointer"
-msgstr ""
+msgstr "Mal puntero de buffer"
 
 msgid "Invalid error code (value greater than zero)"
-msgstr ""
+msgstr "Código de error no válido (valor mayor que cero)"
 
 msgid "Invalid error code"
-msgstr ""
+msgstr "Código de error no válido"
 
 msgid "ALSA"
-msgstr ""
+msgstr "ALSA"
 
 msgid "ASIO"
-msgstr ""
+msgstr "ASIO"
 
 msgid "Core Audio"
 msgstr ""
@@ -142,31 +142,31 @@ msgstr ""
 
 #, c-format
 msgid "Unable to open file %s for writing"
-msgstr ""
+msgstr "Imposible de abrir archivo %s para escribir"
 
 #, c-format
 msgid "Duplicate combination entry %s in %s"
-msgstr ""
+msgstr "Entrada de combinación duplicada %s en %s"
 
 #, c-format
 msgid "Invalid combination entry %s in %s"
-msgstr ""
+msgstr "Entrada de combinación no válida %s en %s"
 
 msgid "Divisional"
 msgstr ""
 
 #, c-format
 msgid "bitmap size does not match for '%s'"
-msgstr ""
+msgstr "el tamaño del mapa de bits no se corresponde a '%s'"
 
 msgid "Invalid loop defintion"
-msgstr ""
+msgstr "Definición de bucle no válida"
 
 msgid "Loop too short for a cross fade"
-msgstr ""
+msgstr "Bucle demasiado corto para un cross fade"
 
 msgid "No loop found"
-msgstr ""
+msgstr "Ningún bucle encontrado"
 
 msgid "Invalid release end position"
 msgstr ""
@@ -176,45 +176,45 @@ msgstr ""
 
 #, c-format
 msgid "Loading file %s"
-msgstr ""
+msgstr "Cargando archivo %s"
 
 #, c-format
 msgid "caught exception: %s\n"
-msgstr ""
+msgstr "excepción manejada: %s\n"
 
 msgid "Coupler"
-msgstr ""
+msgstr "Acoplar"
 
 msgid "< More than 2 channels in"
-msgstr ""
+msgstr "< Más de 2 canales en"
 
 msgid "Loop too short for crossfade"
-msgstr ""
+msgstr "Bucle demasiado corto para crossfade"
 
 msgid "Not enough samples for a crossfade"
-msgstr ""
+msgstr "Muestras insuficientes para un crossfade"
 
 msgid "Invalid reverb configuration (samples per buffer)"
-msgstr ""
+msgstr "Configuración no válida de reverberación (muestras por buffer)"
 
 msgid "Invalid reverb start offset"
-msgstr ""
+msgstr "Offset no válido de comienzo de reverberación"
 
 msgid "Out of memory"
-msgstr ""
+msgstr "Sin memoria"
 
 msgid "Resampling failed"
-msgstr ""
+msgstr "El remuestreo a fallado"
 
 #, c-format
 msgid "Load error: %s"
-msgstr ""
+msgstr "Error de carga: %s"
 
 msgid "back"
-msgstr ""
+msgstr "atrás"
 
 msgid "tab"
-msgstr ""
+msgstr "tabulador"
 
 msgid "return"
 msgstr ""
@@ -229,61 +229,61 @@ msgid "menu"
 msgstr ""
 
 msgid "pause"
-msgstr ""
+msgstr "pausa"
 
 msgid "capital"
-msgstr ""
+msgstr "mayúsculas"
 
 msgid "escape"
 msgstr ""
 
 msgid "space"
-msgstr ""
+msgstr "espacio"
 
 msgid "pageup"
-msgstr ""
+msgstr "página arriba"
 
 msgid "pagedown"
-msgstr ""
+msgstr "página abajo"
 
 msgid "end"
-msgstr ""
+msgstr "fin"
 
 msgid "home"
-msgstr ""
+msgstr "inicio"
 
 msgid "left"
-msgstr ""
+msgstr "izquierda"
 
 msgid "up"
-msgstr ""
+msgstr "arriba"
 
 msgid "right"
-msgstr ""
+msgstr "derecha"
 
 msgid "down"
-msgstr ""
+msgstr "abajo"
 
 msgid "select"
-msgstr ""
+msgstr "seleccionar"
 
 msgid "print"
-msgstr ""
+msgstr "imprimir"
 
 msgid "execute"
-msgstr ""
+msgstr "ejecutar"
 
 msgid "snapshot"
-msgstr ""
+msgstr "instantánea"
 
 msgid "insert"
-msgstr ""
+msgstr "insertar"
 
 msgid "delete"
-msgstr ""
+msgstr "eliminar"
 
 msgid "help"
-msgstr ""
+msgstr "ayuda"
 
 msgid "0"
 msgstr ""
@@ -394,10 +394,10 @@ msgid "Z"
 msgstr ""
 
 msgid "Windows left"
-msgstr ""
+msgstr "Windows izquierda"
 
 msgid "Windows right"
-msgstr ""
+msgstr "Windows derecha"
 
 msgid "Windows menu"
 msgstr ""
@@ -433,22 +433,22 @@ msgid "numpad 9"
 msgstr ""
 
 msgid "multiply"
-msgstr ""
+msgstr "multiplicar"
 
 msgid "add"
-msgstr ""
+msgstr "añadir"
 
 msgid "seperator"
-msgstr ""
+msgstr "separador"
 
 msgid "subtract"
-msgstr ""
+msgstr "restar"
 
 msgid "decimal"
 msgstr ""
 
 msgid "divide"
-msgstr ""
+msgstr "dividir"
 
 msgid "F1"
 msgstr ""
@@ -523,7 +523,7 @@ msgid "F24"
 msgstr ""
 
 msgid "numlock"
-msgstr ""
+msgstr "bloqueo del teclado numérico"
 
 msgid "scroll"
 msgstr ""
@@ -565,7 +565,7 @@ msgid "`"
 msgstr ""
 
 msgid "Log messages"
-msgstr ""
+msgstr "Mensajes de log"
 
 msgid "enclosure not found"
 msgstr ""
@@ -575,10 +575,10 @@ msgstr ""
 
 #, c-format
 msgid "Midi-Settings for %s - %s"
-msgstr ""
+msgstr "Configuración Midi para %s - %s"
 
 msgid "Load error"
-msgstr ""
+msgstr "Error de carga"
 
 msgid "Invalid object type for reversible piston"
 msgstr ""
@@ -596,27 +596,27 @@ msgstr ""
 
 #, c-format
 msgid "Failed to open file '%s'"
-msgstr ""
+msgstr "Falló al abrir el archivo '%s'"
 
 #, c-format
 msgid "Failed to load file '%s' into the memory"
-msgstr ""
+msgstr "Falló al cargar el archivo '%s' a la memoria"
 
 #, c-format
 msgid "Failed to read file '%s'"
-msgstr ""
+msgstr "Falló al leer el archivo '%s'"
 
 #, c-format
 msgid "Failed to decode file '%s'"
-msgstr ""
+msgstr "Falló al decodificar el archivo '%s'"
 
 #, c-format
 msgid "Invalid Config entry at line %d: %s"
-msgstr ""
+msgstr "Entrada de configuración no válida en la línea %d: %s"
 
 #, c-format
 msgid "Invalid section start at line %d: %s"
-msgstr ""
+msgstr "Comienzo de sección no válido en la línea %d: %s"
 
 #, c-format
 msgid "Duplicate group at line %d: %s"
