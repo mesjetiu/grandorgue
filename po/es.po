@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-08 13:01+0100\n"
+"PO-Revision-Date: 2015-12-08 15:07+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -28,11 +28,11 @@ msgstr ""
 
 #, c-format
 msgid " from %s"
-msgstr ""
+msgstr "desde %s"
 
 #, c-format
 msgid " from '%s' (%s)"
-msgstr ""
+msgstr "desde '%s' (%s)"
 
 msgid "\""
 msgstr ""
@@ -46,11 +46,11 @@ msgstr ""
 
 #, c-format
 msgid "%.3f MB (not limited)"
-msgstr ""
+msgstr "%.3f MB (no limitado)"
 
 #, c-format
 msgid "%.3f MB of %.3f MB"
-msgstr ""
+msgstr "%.3f MB de %.3f MB"
 
 #, c-format
 msgid "%d"
@@ -70,7 +70,7 @@ msgstr ""
 
 #, c-format
 msgid "%d samples per buffer, %d Hz\n"
-msgstr ""
+msgstr "%d muestras por buffer, %d Hz\n"
 
 #, c-format
 msgid "%d: %s"
@@ -86,11 +86,11 @@ msgstr ""
 
 #, c-format
 msgid "%s - left"
-msgstr ""
+msgstr "%s - izquierda"
 
 #, c-format
 msgid "%s - right"
-msgstr ""
+msgstr "%s - arriba"
 
 #, c-format
 msgid "%s, %s"
@@ -114,38 +114,38 @@ msgstr ""
 
 #, c-format
 msgid "%s: unknown"
-msgstr ""
+msgstr "%s: desconocido"
 
 #, c-format
 msgid "&%d: %s"
 msgstr ""
 
 msgid "&About"
-msgstr ""
+msgstr "&Acerca de"
 
 msgid "&Add"
-msgstr ""
+msgstr "&Añadir"
 
 msgid "&Audio/Midi"
 msgstr ""
 
 msgid "&Bit number:"
-msgstr ""
+msgstr "&Número de bits"
 
 msgid "&CTRL/PGM:"
 msgstr ""
 
 msgid "&Cache"
-msgstr ""
+msgstr "&Caché"
 
 msgid "&Channel:"
-msgstr ""
+msgstr "&Canal"
 
 msgid "&Close"
-msgstr ""
+msgstr "&Cerrar"
 
 msgid "&Color:"
-msgstr ""
+msgstr "&Color"
 
 msgid "&Controller-No:"
 msgstr ""
@@ -160,85 +160,85 @@ msgid "&Debounce time(ms):"
 msgstr ""
 
 msgid "&Delete"
-msgstr ""
+msgstr "&Eliminar"
 
 msgid "&Detect complex MIDI setup"
-msgstr ""
+msgstr "&Detectar configuración compleja de MIDI"
 
 msgid "&Device:"
-msgstr ""
+msgstr "&Dispositivo"
 
 msgid "&Down"
-msgstr ""
+msgstr "&Abajo"
 
 msgid "&Enhancements"
 msgstr ""
 
 msgid "&Event:"
-msgstr ""
+msgstr "&Evento"
 
 msgid "&Export Settings/Combinations"
-msgstr ""
+msgstr "&Exportar Configuraciones/Combinaciones"
 
 msgid "&Favorites"
-msgstr ""
+msgstr "&Favoritos"
 
 msgid "&File"
-msgstr ""
+msgstr "&Archivo"
 
 msgid "&Help"
-msgstr ""
+msgstr "&Ayuda"
 
 msgid "&Help\tF1"
-msgstr ""
+msgstr "&Ayuda\tF1"
 
 msgid "&Highest key:"
-msgstr ""
+msgstr "&Tecla más aguda:"
 
 msgid "&ID:"
 msgstr ""
 
 msgid "&Import Settings"
-msgstr ""
+msgstr "&Importar Configuraciones"
 
 msgid "&Install organ package\tCtrl+I"
-msgstr ""
+msgstr "&Instalar paquete de órgano\tCtrl+I"
 
 msgid "&Listen for Event"
-msgstr ""
+msgstr "&Escuchar Evento"
 
 msgid "&Load\tCtrl+L"
-msgstr ""
+msgstr "&Cargar\tCtrl+L"
 
 msgid "&Lower PGM number:"
-msgstr ""
+msgstr "&Número PGM más bajo:"
 
 msgid "&Lowest key:"
-msgstr ""
+msgstr "&Tecla más grave:"
 
 msgid "&MIDI-note:"
-msgstr ""
+msgstr "&Nota-MIDI:"
 
 msgid "&Memory Level"
-msgstr ""
+msgstr "&Nivel de memoria"
 
 msgid "&Memory Set\tShift"
-msgstr ""
+msgstr "&Configurar memoria\tMayúsculas"
 
 msgid "&Metronome"
-msgstr ""
+msgstr "&Metrónomo"
 
 msgid "&Off NRPN number:"
-msgstr ""
+msgstr "&"
 
 msgid "&Off RPN number:"
 msgstr ""
 
 msgid "&Off Value:"
-msgstr ""
+msgstr "&Valor Off:"
 
 msgid "&Off value:"
-msgstr ""
+msgstr "&Valor Off:"
 
 msgid "&On NRPN number:"
 msgstr ""
@@ -247,19 +247,19 @@ msgid "&On RPN number:"
 msgstr ""
 
 msgid "&On value:"
-msgstr ""
+msgstr "&Valor On:"
 
 msgid "&Open\tCtrl+O"
-msgstr ""
+msgstr "&Abrir\tCtrl+O"
 
 msgid "&Organ settings"
-msgstr ""
+msgstr "&Configuración del órgano"
 
 msgid "&Panel"
 msgstr ""
 
 msgid "&Panic\tEscape"
-msgstr ""
+msgstr "&Pánico\tEscape"
 
 msgid "&Parameter-No:"
 msgstr ""
@@ -268,69 +268,69 @@ msgid "&Paths"
 msgstr ""
 
 msgid "&Polyphony"
-msgstr ""
+msgstr "&Polifonía"
 
 msgid "&Record\tCtrl+R"
-msgstr ""
+msgstr "&Grabar\tCtrl+R"
 
 msgid "&Release tail length"
 msgstr ""
 
 msgid "&Sample loading"
-msgstr ""
+msgstr "&Cargando muestra"
 
 msgid "&Save\tCtrl+S"
-msgstr ""
+msgstr "&Guardar\tCtrl+S"
 
 msgid "&Shortcut:"
-msgstr ""
+msgstr "&Atajo:"
 
 msgid "&Sound Engine"
-msgstr ""
+msgstr "&Motor de Sonido"
 
 msgid "&Sound Output State"
-msgstr ""
+msgstr "&Estado de la Salida del Sonido"
 
 msgid "&Sound output"
-msgstr ""
+msgstr "&Salida del sonido"
 
 msgid "&Temperament"
-msgstr ""
+msgstr "&Temperamento"
 
 msgid "&Top"
 msgstr ""
 
 msgid "&Transpose"
-msgstr ""
+msgstr "&Transportar"
 
 msgid "&Transpose:"
-msgstr ""
+msgstr "&Transportar:"
 
 msgid "&Up"
-msgstr ""
+msgstr "&Arriba"
 
 msgid "&Update Cache..."
-msgstr ""
+msgstr "&Actualizar Caché..."
 
 msgid "&Upper PGM number:"
-msgstr ""
+msgstr "&Número PGM superior:"
 
 msgid "&Upper limit:"
-msgstr ""
+msgstr "&Límite superior:"
 
 msgid "&Value:"
-msgstr ""
+msgstr "&Valor:"
 
 msgid "&Volume"
-msgstr ""
+msgstr "&Volumen"
 
 #, c-format
 msgid "'%s' is still used by the organ '%s'"
-msgstr ""
+msgstr "'%s' está siendo usado aún por el órgano '%s'"
 
 #, c-format
 msgid "'%s' is still used by the package '%s'"
-msgstr ""
+msgstr "'%s' está siendo usado aún por el paquete '%s'"
 
 msgid "(none)"
 msgstr ""
@@ -354,7 +354,7 @@ msgid "+100"
 msgstr ""
 
 msgid "+100 Cent"
-msgstr ""
+msgstr "+100 Cents"
 
 msgid ","
 msgstr ""
@@ -375,7 +375,7 @@ msgid "-100"
 msgstr ""
 
 msgid "-100 Cent"
-msgstr ""
+msgstr "-100 Cents"
 
 msgid "."
 msgstr ""
@@ -390,40 +390,40 @@ msgid "1"
 msgstr ""
 
 msgid "1/4 comma meantone (Aaron 1523)"
-msgstr ""
+msgstr "Mesotónico de 1/4 de coma (Aaron 1523)"
 
 msgid "1/4 comma variants"
-msgstr ""
+msgstr "Variantes de 1/4 de coma"
 
 msgid "1/4-comma equal beating fifths"
-msgstr ""
+msgstr "1/4 de coma, quintas de batimentos iguales"
 
 msgid "1/4-comma meantone approximation"
-msgstr ""
+msgstr "Aproximación al Mesotónico de 1/4 de coma"
 
 msgid "1/5 comma"
-msgstr ""
+msgstr "1/5 de coma"
 
 msgid "1/5-comma meantone (Verheijen)"
-msgstr ""
+msgstr "Mesotónico de 1/5 de coma (Verheijen)"
 
 msgid "1/6 comma"
-msgstr ""
+msgstr "1/6 de coma"
 
 msgid "1/6-comma (bemols)"
-msgstr ""
+msgstr "1/6 de coma (bemoles)"
 
 msgid "1/6-comma (dieses)"
-msgstr ""
+msgstr "1/6 de coma (sostenidos)"
 
 msgid "1/6-comma equal beating fifths"
-msgstr ""
+msgstr "1/6 de coma, quintas de batimentos iguales"
 
 msgid "1/6-comma meantone"
-msgstr ""
+msgstr "Mesotónico de 1/6 de coma"
 
 msgid "1/6-comma, wolf over 4 fifths"
-msgstr ""
+msgstr "1/6 de coma, lobo sobre 4 quintas"
 
 msgid "12 bits"
 msgstr ""
@@ -453,7 +453,7 @@ msgid "3"
 msgstr ""
 
 msgid "3/14-comma meantone (Giordano Riccati, 1762)"
-msgstr ""
+msgstr "Mesotónico de 3/14 de coma (Giordano Riccati, 1762)"
 
 msgid "4"
 msgstr ""
@@ -510,16 +510,16 @@ msgid "<"
 msgstr ""
 
 msgid "< Bits per sample must be a multiple of 8 in this implementation"
-msgstr ""
+msgstr "< Los bits por muestra deben ser múltiplos de 8 en esta implementación"
 
 msgid "< Invalid CUE chunk in"
 msgstr ""
 
 msgid "< Invalid RIFF file"
-msgstr ""
+msgstr "< Archivo RIFF no válido"
 
 msgid "< Invalid RIFF/WAVE file"
-msgstr ""
+msgstr "< Archivo RIFF/WAVE no válido"
 
 msgid "< Invalid SMPL chunk in"
 msgstr ""
@@ -534,26 +534,26 @@ msgid "< More than 2 channels in"
 msgstr "< Más de 2 canales en"
 
 msgid "< Not a RIFF file"
-msgstr ""
+msgstr "< No es archivo RIFF"
 
 msgid "< Only 32bit IEEE float samples supported"
-msgstr ""
+msgstr "< Sólo muestras de 32bit IEEE float son soportadas"
 
 msgid "< Unsupport PCM bit size"
 msgstr ""
 
 msgid "< Unsupported PCM format"
-msgstr ""
+msgstr "< Formato PCM no soportado"
 
 msgid "<Invalid SMPL chunk in"
 msgstr ""
 
 msgid "<Invalid WAV file"
-msgstr ""
+msgstr "<Archivo WAV no soportado"
 
 #, c-format
 msgid "<unknown> %d"
-msgstr ""
+msgstr "<desconocido> %d"
 
 msgid ">"
 msgstr ""
@@ -572,6 +572,12 @@ msgid ""
 "interface's channel 1 to appear as channel 9,\n"
 "channel 2 to appear as channel 10, and so on."
 msgstr ""
+"Un canal offset permite usar dos interfaces\n"
+"MIDI con canales MIDI en conflicto. Por\n"
+"ejemplo, aplicar un offset de canal de 8 a una\n"
+"de las interfaces MIDI podría causar que el\n"
+"canal 1 de la interfaz apareciera como canal 9,\n"
+"el canal 2 como canal 10, y así sucesivamente."
 
 msgid "A&dvanced..."
 msgstr ""
