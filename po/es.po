@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-08 15:22+0100\n"
+"PO-Revision-Date: 2015-12-09 23:08+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -18,13 +18,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "\n"
-msgstr ""
+msgstr "\n"
 
 msgid " (PA): "
-msgstr ""
+msgstr "(PA):"
 
 msgid " - "
-msgstr ""
+msgstr "-"
 
 #, c-format
 msgid " from %s"
@@ -35,14 +35,14 @@ msgid " from '%s' (%s)"
 msgstr "desde '%s' (%s)"
 
 msgid "\""
-msgstr ""
+msgstr "\""
 
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #, c-format
 msgid "%.3f MB"
-msgstr ""
+msgstr "%.3f MB"
 
 #, c-format
 msgid "%.3f MB (not limited)"
@@ -54,19 +54,19 @@ msgstr "%.3f MB de %.3f MB"
 
 #, c-format
 msgid "%d"
-msgstr ""
+msgstr "%d"
 
 #, c-format
 msgid "%d (%s)"
-msgstr ""
+msgstr "%d (%s)"
 
 #, c-format
 msgid "%d BPM"
-msgstr ""
+msgstr "%d BPM"
 
 #, c-format
 msgid "%d ms"
-msgstr ""
+msgstr "%d ms"
 
 #, c-format
 msgid "%d samples per buffer, %d Hz\n"
@@ -74,15 +74,15 @@ msgstr "%d muestras por buffer, %d Hz\n"
 
 #, c-format
 msgid "%d: %s"
-msgstr ""
+msgstr "%d: %s"
 
 #, c-format
 msgid "%f cent"
-msgstr ""
+msgstr "%f cent"
 
 #, c-format
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 #, c-format
 msgid "%s - left"
@@ -94,23 +94,23 @@ msgstr "%s - arriba"
 
 #, c-format
 msgid "%s, %s"
-msgstr ""
+msgstr "%s, %s"
 
 #, c-format
 msgid "%s: %d ms"
-msgstr ""
+msgstr "%s: %d ms"
 
 #, c-format
 msgid "%s: %f dB"
-msgstr ""
+msgstr "%s: %f dB"
 
 #, c-format
 msgid "%s: %s\n"
-msgstr ""
+msgstr "%s: %s\n"
 
 #, c-format
 msgid "%s: mute"
-msgstr ""
+msgstr "%s: mute"
 
 #, c-format
 msgid "%s: unknown"
@@ -118,7 +118,7 @@ msgstr "%s: desconocido"
 
 #, c-format
 msgid "&%d: %s"
-msgstr ""
+msgstr "&%d: %s"
 
 msgid "&About"
 msgstr "&Acerca de"
@@ -127,13 +127,13 @@ msgid "&Add"
 msgstr "&Añadir"
 
 msgid "&Audio/Midi"
-msgstr ""
+msgstr "&Audio/Midi"
 
 msgid "&Bit number:"
 msgstr "&Número de bits"
 
 msgid "&CTRL/PGM:"
-msgstr ""
+msgstr "&CTRL/PGM:"
 
 msgid "&Cache"
 msgstr "&Caché"
@@ -256,7 +256,7 @@ msgid "&Organ settings"
 msgstr "&Configuración del órgano"
 
 msgid "&Panel"
-msgstr ""
+msgstr "&Panel"
 
 msgid "&Panic\tEscape"
 msgstr "&Pánico\tEscape"
@@ -336,58 +336,58 @@ msgid "(none)"
 msgstr ""
 
 msgid "*.wav"
-msgstr ""
+msgstr "*.wav"
 
 msgid "+"
-msgstr ""
+msgstr "+"
 
 msgid "+1"
-msgstr ""
+msgstr "+1"
 
 msgid "+1 Cent"
-msgstr ""
+msgstr "+1 Cent"
 
 msgid "+10"
-msgstr ""
+msgstr "+10"
 
 msgid "+100"
-msgstr ""
+msgstr "+100"
 
 msgid "+100 Cent"
 msgstr "+100 Cents"
 
 msgid ","
-msgstr ""
+msgstr ","
 
 msgid "-"
-msgstr ""
+msgstr "-"
 
 msgid "-1"
-msgstr ""
+msgstr "-1"
 
 msgid "-1 Cent"
-msgstr ""
+msgstr "-1 Cent"
 
 msgid "-10"
-msgstr ""
+msgstr "-10"
 
 msgid "-100"
-msgstr ""
+msgstr "-100"
 
 msgid "-100 Cent"
 msgstr "-100 Cents"
 
 msgid "."
-msgstr ""
+msgstr "."
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "000"
-msgstr ""
+msgstr "000"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "1/4 comma meantone (Aaron 1523)"
 msgstr "Mesotónico de 1/4 de coma (Aaron 1523)"
@@ -426,58 +426,58 @@ msgid "1/6-comma, wolf over 4 fifths"
 msgstr "1/6 de coma, lobo sobre 4 quintas"
 
 msgid "12 bits"
-msgstr ""
+msgstr "12 bits"
 
 msgid "16"
-msgstr ""
+msgstr "16"
 
 msgid "16 Bit PCM"
-msgstr ""
+msgstr "16 Bit PCM"
 
 msgid "16 bits"
-msgstr ""
+msgstr "16 bits"
 
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgid "20 bits"
-msgstr ""
+msgstr "20 bits"
 
 msgid "24 Bit PCM"
-msgstr ""
+msgstr "24 Bit PCM"
 
 msgid "24 bits"
-msgstr ""
+msgstr "24 bits"
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "3/14-comma meantone (Giordano Riccati, 1762)"
 msgstr "Mesotónico de 3/14 de coma (Giordano Riccati, 1762)"
 
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgid "8 Bit PCM"
-msgstr ""
+msgstr "8 Bit PCM"
 
 msgid "8 bits"
-msgstr ""
+msgstr "8 bits"
 
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgid "9x Note"
 msgstr ""
@@ -504,10 +504,10 @@ msgid "9x Note without map"
 msgstr ""
 
 msgid ":"
-msgstr ""
+msgstr ":"
 
 msgid "<"
-msgstr ""
+msgstr "<"
 
 msgid "< Bits per sample must be a multiple of 8 in this implementation"
 msgstr "< Los bits por muestra deben ser múltiplos de 8 en esta implementación"
@@ -556,13 +556,13 @@ msgid "<unknown> %d"
 msgstr "<desconocido> %d"
 
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgid "?"
-msgstr ""
+msgstr "?"
 
 msgid "A"
-msgstr ""
+msgstr "A"
 
 msgid ""
 "A channel offset allows the use of two MIDI\n"
@@ -607,7 +607,7 @@ msgid "Agricola's Monochord, Rudimenta musices (1539)"
 msgstr "Monacordio de Agricola, Rudimenta musices (1539)"
 
 msgid "Alexander Metcalf Fisher"
-msgstr ""
+msgstr "Alexander Metcalf Fisher"
 
 msgid "All"
 msgstr "Todo"
@@ -619,7 +619,7 @@ msgid "Allocated sample memory"
 msgstr ""
 
 msgid "Alsa"
-msgstr ""
+msgstr "Alsa"
 
 msgid "Amplitude is invalid"
 msgstr "La amplitud no es válida"
@@ -666,76 +666,76 @@ msgid "Audio Groups"
 msgstr "Grupos de Audio"
 
 msgid "Audio Output"
-msgstr ""
+msgstr "Salida de audio"
 
 #, c-format
 msgid "Audio device %s not initialised"
-msgstr ""
+msgstr "Dispositivo de audio %s no inicializado"
 
 #, c-format
 msgid "Audio device %s not open"
-msgstr ""
+msgstr "Dispositivo de audio %s no abierto"
 
 msgid "Audio device settings"
-msgstr ""
+msgstr "Configuración del dispositivo de audio"
 
 #, c-format
 msgid "Audio group %d"
-msgstr ""
+msgstr "Grupo de audio %d"
 
 msgid "Audio group name"
-msgstr ""
+msgstr "Nombre del grupo de audio"
 
 msgid "Audio group:"
-msgstr ""
+msgstr "Grupo de audio:"
 
 msgid "Audio groups"
-msgstr ""
+msgstr "Grupos de audio"
 
 msgid "Audio recording directory:"
-msgstr ""
+msgstr "Directorio de grabación de audio:"
 
 msgid "Audio recordings"
-msgstr ""
+msgstr "Grabaciones de audio"
 
 msgid "Audio/Midi &Settings"
-msgstr ""
+msgstr "&Configuración Audio/Midi"
 
 msgid "Automatically manage cache"
-msgstr ""
+msgstr "Gestionar caché automáticamente"
 
 msgid "B"
-msgstr ""
+msgstr "B"
 
 msgid "BAS"
-msgstr ""
+msgstr "BAS"
 
 msgid "BPM +"
-msgstr ""
+msgstr "BPM +"
 
 msgid "BPM -"
-msgstr ""
+msgstr "BPM -"
 
 msgid "BPM:"
-msgstr ""
+msgstr "BPM:"
 
 msgid "Bach (Bradley Lehman)"
-msgstr ""
+msgstr "Bach (Bradley Lehman)"
 
 msgid "Bad buffer pointer"
 msgstr "Mal puntero de buffer"
 
 msgid "Barca 1786"
-msgstr ""
+msgstr "Barca 1786"
 
 msgid "Bermudo (1555) "
-msgstr ""
+msgstr "Bermudo (1555) "
 
 msgid "Bethisy temperament ordinaire (1764)"
-msgstr ""
+msgstr "Temperamento ordinario, Bethisy (1764)"
 
 msgid "Boulliau (1373)/Mersenne 1636. "
-msgstr ""
+msgstr "Boulliau (1373)/Mersenne 1636. "
 
 msgid "Buffer too big"
 msgstr "Buffer demasiado grande"
@@ -744,25 +744,25 @@ msgid "Buffer too small"
 msgstr "Buffer demasiado pequeño"
 
 msgid "Build Date"
-msgstr ""
+msgstr "Fecha de compilación"
 
 msgid "Builder"
 msgstr ""
 
 msgid "Button"
-msgstr ""
+msgstr "Botón"
 
 msgid "Bx Controller"
-msgstr ""
+msgstr "Controlador Bx"
 
 msgid "Bx Controller Off"
-msgstr ""
+msgstr "Controlador Bx Off"
 
 msgid "Bx Controller Off Toggle"
 msgstr ""
 
 msgid "Bx Controller On"
-msgstr ""
+msgstr "Controlador Bx On"
 
 msgid "Bx Controller On Toggle"
 msgstr ""
