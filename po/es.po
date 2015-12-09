@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-09 23:08+0100\n"
+"PO-Revision-Date: 2015-12-09 23:42+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -638,7 +638,7 @@ msgid ""
 msgstr ""
 "¡Se perderán todas las personalizaciones\n"
 "guardadas en el archivo de definición\n"
-"del órgano\n"
+"del órgano!\n"
 "\n"
 "¿Desea reiniciar a los valores por defecto\n"
 "y volver a cargarlo?"
@@ -777,13 +777,13 @@ msgid "Bx Ctrl Change Fixed Value"
 msgstr ""
 
 msgid "C"
-msgstr ""
+msgstr "C"
 
 msgid "C&onfigure..."
-msgstr ""
+msgstr "C&onfigurar..."
 
 msgid "C&opy"
-msgstr ""
+msgstr "C&opiar"
 
 msgid "Cache file had bad magic bypassing cache."
 msgstr ""
@@ -793,14 +793,14 @@ msgstr ""
 
 #, c-format
 msgid "Cache load failure: %s"
-msgstr ""
+msgstr "Fallo al cargar caché: %s"
 
 #, c-format
 msgid "Cache load failure: Failed to read %s from cache."
-msgstr ""
+msgstr "Fallo al cargar caché: Falló al leer %s desde caché."
 
 msgid "Cache store:"
-msgstr ""
+msgstr "Almacén del caché:"
 
 msgid "Can't read from a callback stream"
 msgstr "No se puede leer desde el flujo callback"
@@ -819,40 +819,42 @@ msgid ""
 "Cannot use buffer size above %d samples; unacceptable quantization would "
 "occur."
 msgstr ""
+"No se puede usar un tamaño de buffer mayor que %d muestras; resultaría una "
+"cuantización inaceptable."
 
 msgid "Change"
-msgstr ""
+msgstr "Cambiar"
 
 msgid "Change audio device"
-msgstr ""
+msgstr "Cambiar dispositivo de audio"
 
 msgid "Change audio group"
-msgstr ""
+msgstr "Cambiar grupo de audio"
 
 #, c-format
 msgid "Channel %d"
-msgstr ""
+msgstr "Canal %d"
 
 msgid "Channel offset:"
-msgstr ""
+msgstr "Offset de canal:"
 
 msgid "Channel:"
-msgstr ""
+msgstr "Canal:"
 
 msgid "Chaumont"
-msgstr ""
+msgstr "Chaumont"
 
 msgid "Church"
-msgstr ""
+msgstr "Iglesia"
 
 msgid "Collapse tree"
-msgstr ""
+msgstr "Plegar arbol"
 
 msgid "Combination Setter"
-msgstr ""
+msgstr "Configurador de Combinaciones"
 
 msgid "Compress cache"
-msgstr ""
+msgstr "Comprimir caché"
 
 msgid "Concurrency Level:"
 msgstr ""
@@ -871,6 +873,14 @@ msgid ""
 "by use of the Steinberg ASIO SDK, Version 2.2.\n"
 "ASIO is a trademark and software of Steinberg Media Technologies GmbH."
 msgstr ""
+"Copyright 2006 Milan Digital Audio LLC\n"
+"Copyright 2009-2015 GrandOrgue colaboradores\n"
+"\n"
+"Este software viene sin ninguna garantía.\n"
+"\n"
+"ASIO Interface Technology by Steinberg Media Technologies GmbH,\n"
+"by use of the Steinberg ASIO SDK, Versión 2.2.\n"
+"ASIO es una marca y software de Steinberg Media Technologies GmbH."
 
 msgid "Core"
 msgstr ""
@@ -879,25 +889,25 @@ msgid "Core Audio"
 msgstr ""
 
 msgid "Corrette (1753)"
-msgstr ""
+msgstr "Corrette (1753)"
 
 #, c-format
 msgid "Could not remove '%s'"
-msgstr ""
+msgstr "No se ha podido borrar '%s'"
 
 #, c-format
 msgid "Could not write to '%s'"
-msgstr ""
+msgstr "No se ha podido escribir a '%s'"
 
 msgid "Couperin"
-msgstr ""
+msgstr "Couperin"
 
 msgid "Coupler"
 msgstr "Acoplar"
 
 #, c-format
 msgid "Coupler %s"
-msgstr ""
+msgstr "Acoplamiento %s"
 
 msgid "Coupler manuals and volume"
 msgstr ""
@@ -916,7 +926,7 @@ msgid "Crescendo"
 msgstr ""
 
 msgid "Crescendo Pedal"
-msgstr ""
+msgstr "Pedal de crescendo"
 
 msgid "Ctrl Change Bitfield"
 msgstr ""
@@ -937,7 +947,7 @@ msgid "Cx Program Change Range"
 msgstr ""
 
 msgid "D"
-msgstr ""
+msgstr "D"
 
 msgid "De Caus (1615)"
 msgstr ""
@@ -946,34 +956,37 @@ msgid "Default"
 msgstr ""
 
 msgid "Default audio group"
-msgstr ""
+msgstr "Grupo de audio por defecto"
 
 msgid "Defaults and Initial Settings"
-msgstr ""
+msgstr "Configuraciones por defecto e iniciales"
 
 msgid "Delay (ms):"
 msgstr ""
 
 msgid "Delete"
-msgstr ""
+msgstr "Borrar"
 
 msgid "Delete &Cache..."
-msgstr ""
+msgstr "Borrar &Caché..."
 
 msgid "Delete package"
-msgstr ""
+msgstr "Borrar paquete"
 
 msgid "Desired latency:"
-msgstr ""
+msgstr "Latencia deseada:"
 
 msgid "Desired output latency"
-msgstr ""
+msgstr "Latencia de salida deseada"
 
 #, c-format
 msgid ""
 "Device %s wants a different samples per buffer settings: %d.\n"
 "Please adjust the GrandOrgue audio settings."
 msgstr ""
+"El dispositivo %s quiere una diferente configuración de muestras por buffer: "
+"%d.\n"
+"Por favor, ajuste la configuración de audio de GrandOrgue."
 
 msgid "Device unavailable"
 msgstr "Dispositivo no disponible"
@@ -1990,49 +2003,49 @@ msgid "NRPN Range"
 msgstr ""
 
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 msgid "Neidhardt I (1724)"
-msgstr ""
+msgstr "Neidhardt I (1724)"
 
 msgid "Neidhardt II (1724)"
-msgstr ""
+msgstr "Neidhardt II (1724)"
 
 msgid "Neidhardt III (1724)"
-msgstr ""
+msgstr "Neidhardt III (1724)"
 
 msgid "New"
-msgstr ""
+msgstr "Nuevo"
 
 msgid "New audio device"
-msgstr ""
+msgstr "Nuevo dispositivo de audio"
 
 msgid "New audio group"
-msgstr ""
+msgstr "Nuevo grupo de audio"
 
 msgid "New audio group name"
-msgstr ""
+msgstr "Nuevo nombre de grupo de audio"
 
 msgid "Next"
-msgstr ""
+msgstr "Siguiente"
 
 msgid "Next Memory"
-msgstr ""
+msgstr "Siguiente memoria"
 
 msgid "Next temperament"
-msgstr ""
+msgstr "Siguiente temperamento"
 
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgid "No audio group selected"
-msgstr ""
+msgstr "Ningún grupo de audio seleccionado"
 
 msgid "No callback routine specified"
 msgstr "Ninguna rutina callback especificada"
 
 msgid "No device"
-msgstr ""
+msgstr "Ningún dispositivo"
 
 msgid "No end record found"
 msgstr ""
@@ -2041,20 +2054,22 @@ msgid "No loop found"
 msgstr "Ningún bucle encontrado"
 
 msgid "No samples found"
-msgstr ""
+msgstr "Ninguna muestra encontrada"
 
 msgid "No sound output occurring"
-msgstr ""
+msgstr "Ninguna salida de audio resultante"
 
 #, c-format
 msgid ""
 "No sound output will happen. Samples per buffer has been changed by the "
 "sound driver to %d"
 msgstr ""
+"No resultará ninguna salida de audio. Las muestras por buffer han sido "
+"cambiadas por el controlador de sonido a %d"
 
 #, c-format
 msgid "Non-empty directory '%s'"
-msgstr ""
+msgstr "Directorio '%s' no vacío"
 
 msgid "None"
 msgstr ""
@@ -2077,37 +2092,39 @@ msgid "Number %s contains locale dependent floating point"
 msgstr ""
 
 msgid "O"
-msgstr ""
+msgstr "O"
 
 msgid "ODF Path"
 msgstr ""
 
 msgid "ON"
-msgstr ""
+msgstr "ON"
 
 msgid "OSS"
-msgstr ""
+msgstr "OSS"
 
 msgid "Old GO 0.2 styled setting in ODF"
-msgstr ""
+msgstr "Configuración al viejo estilo GO 0.2 en ODF"
 
 msgid "On"
-msgstr ""
+msgstr "On"
 
 msgid "Only non-splitted ZIP archives are supported"
-msgstr ""
+msgstr "Sólo son soportados archivos ZIP no partidos"
 
 msgid "Only non-splitted ZIP64 archives are supported"
 msgstr ""
+"Sólo son soportados archivos ZIP64\n"
+" no partidos"
 
 msgid "Only non-splitted archive is supported"
-msgstr ""
+msgstr "Sólo son soportados archivos no partidos"
 
 msgid "Only stored compression supported"
-msgstr ""
+msgstr "Sólo es soportada la compresión almacenada"
 
 msgid "Open &Recent"
-msgstr ""
+msgstr "Abrir &Reciente"
 
 #, c-format
 msgid "Open of the audio stream for %s failed: %s"
