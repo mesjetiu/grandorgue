@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-09 23:42+0100\n"
+"PO-Revision-Date: 2015-12-11 09:02+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -148,10 +148,10 @@ msgid "&Color:"
 msgstr "&Color"
 
 msgid "&Controller-No:"
-msgstr ""
+msgstr "&Controlador-Número:"
 
 msgid "&Convolution reverb"
-msgstr ""
+msgstr "&Reverberación de Convolución"
 
 msgid "&Data:"
 msgstr ""
@@ -172,7 +172,7 @@ msgid "&Down"
 msgstr "&Abajo"
 
 msgid "&Enhancements"
-msgstr ""
+msgstr "&Mejoras"
 
 msgid "&Event:"
 msgstr "&Evento"
@@ -196,7 +196,7 @@ msgid "&Highest key:"
 msgstr "&Tecla más aguda:"
 
 msgid "&ID:"
-msgstr ""
+msgstr "&ID"
 
 msgid "&Import Settings"
 msgstr "&Importar Configuraciones"
@@ -232,7 +232,7 @@ msgid "&Off NRPN number:"
 msgstr "&"
 
 msgid "&Off RPN number:"
-msgstr ""
+msgstr "&Off número RPN:"
 
 msgid "&Off Value:"
 msgstr "&Valor Off:"
@@ -241,10 +241,10 @@ msgid "&Off value:"
 msgstr "&Valor Off:"
 
 msgid "&On NRPN number:"
-msgstr ""
+msgstr "&On número NRPN"
 
 msgid "&On RPN number:"
-msgstr ""
+msgstr "&On número RPN"
 
 msgid "&On value:"
 msgstr "&Valor On:"
@@ -262,10 +262,10 @@ msgid "&Panic\tEscape"
 msgstr "&Pánico\tEscape"
 
 msgid "&Parameter-No:"
-msgstr ""
+msgstr "&Parámetro-Número:"
 
 msgid "&Paths"
-msgstr ""
+msgstr "&Rutas"
 
 msgid "&Polyphony"
 msgstr "&Polifonía"
@@ -274,7 +274,7 @@ msgid "&Record\tCtrl+R"
 msgstr "&Grabar\tCtrl+R"
 
 msgid "&Release tail length"
-msgstr ""
+msgstr "&Longitud de la cola de decaimiento"
 
 msgid "&Sample loading"
 msgstr "&Cargando muestra"
@@ -298,7 +298,7 @@ msgid "&Temperament"
 msgstr "&Temperamento"
 
 msgid "&Top"
-msgstr ""
+msgstr "&Top"
 
 msgid "&Transpose"
 msgstr "&Transportar"
@@ -333,7 +333,7 @@ msgid "'%s' is still used by the package '%s'"
 msgstr "'%s' está siendo usado aún por el paquete '%s'"
 
 msgid "(none)"
-msgstr ""
+msgstr "(ninguno)"
 
 msgid "*.wav"
 msgstr "*.wav"
@@ -580,7 +580,7 @@ msgstr ""
 "el canal 2 como canal 10, y así sucesivamente."
 
 msgid "A&dvanced..."
-msgstr ""
+msgstr "Avanza&do..."
 
 msgid "ALSA"
 msgstr "ALSA"
@@ -616,7 +616,7 @@ msgid "All loops"
 msgstr "Todos los bucles"
 
 msgid "Allocated sample memory"
-msgstr ""
+msgstr "Memoria de muestras utilizada"
 
 msgid "Alsa"
 msgstr "Alsa"
@@ -747,7 +747,7 @@ msgid "Build Date"
 msgstr "Fecha de compilación"
 
 msgid "Builder"
-msgstr ""
+msgstr "Organero"
 
 msgid "Button"
 msgstr "Botón"
@@ -2095,7 +2095,7 @@ msgid "O"
 msgstr "O"
 
 msgid "ODF Path"
-msgstr ""
+msgstr "Ruta de ODF"
 
 msgid "ON"
 msgstr "ON"
@@ -2149,7 +2149,7 @@ msgid "Organ %s changed its recording details"
 msgstr ""
 
 msgid "Organ &Properties"
-msgstr ""
+msgstr "&Propiedades del Órgano"
 
 msgid "Organ Packages"
 msgstr ""
@@ -2186,7 +2186,7 @@ msgid "Original temperament"
 msgstr ""
 
 msgid "Other Comments"
-msgstr ""
+msgstr "Otros comentarios"
 
 msgid "Other just"
 msgstr ""
@@ -2399,7 +2399,7 @@ msgid "Recording"
 msgstr ""
 
 msgid "Recording Details"
-msgstr ""
+msgstr "Detalles de la grabación"
 
 msgid "ReferencePipe without Reference"
 msgstr ""
@@ -2742,7 +2742,7 @@ msgid "Ticks per Measure:"
 msgstr ""
 
 msgid "Title"
-msgstr ""
+msgstr "Nombre"
 
 msgid "Too many audio channels configured for the new audio interface"
 msgstr ""
