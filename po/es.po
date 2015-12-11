@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-11 09:02+0100\n"
+"PO-Revision-Date: 2015-12-11 11:38+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -3204,26 +3204,27 @@ msgstr ""
 
 #, c-format
 msgid "rank %s pipe %s: no release defined"
-msgstr ""
+msgstr "fila %s tubo %s: decaimiento no definido"
 
 #, c-format
 msgid "rank %s pipe %s: percussive sample with a release"
-msgstr ""
+msgstr "fila %s tubo %s: percussive sample with a release"
 
 #, c-format
 msgid "rank %s pipe %s: temperament would retune pipe by more than 1200 cent"
 msgstr ""
+"fila %s tubo %s: el temperamento reafinará el tubo en más de 1200 cents"
 
 #, c-format
 msgid "rank %s pipe %s: temperament would retune pipe by more than 600 cent"
-msgstr ""
+msgstr "fila %s tubo %s: el temperamento reafinará el tubo en más de 600 cents"
 
 #, c-format
 msgid "requires '%s' "
-msgstr ""
+msgstr "requiere '%s' "
 
 msgid "return"
-msgstr ""
+msgstr "return"
 
 msgid "right"
 msgstr "derecha"
@@ -3244,7 +3245,7 @@ msgid "space"
 msgstr "espacio"
 
 msgid "specifiy GrandOrgue instance name"
-msgstr ""
+msgstr "especificar nombre de instancia de GrandOrgue"
 
 msgid "subtract"
 msgstr "restar"
@@ -3254,22 +3255,22 @@ msgstr "tabulador"
 
 #, c-format
 msgid "unhandled exception: %s\n"
-msgstr ""
+msgstr "excepción no manejada: %s\n"
 
 msgid "up"
 msgstr "arriba"
 
 msgid "virtual pipe organ simulator"
-msgstr ""
+msgstr "simulador de órgano de tubos virtual"
 
 msgid "wave does not contain loops"
-msgstr ""
+msgstr "la onda no contiene bucles"
 
 msgid "{"
-msgstr ""
+msgstr "{"
 
 msgid "|"
-msgstr ""
+msgstr "|"
 
 msgid "}"
-msgstr ""
+msgstr "}"
