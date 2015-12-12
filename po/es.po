@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-11 11:38+0100\n"
+"PO-Revision-Date: 2015-12-12 17:36+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -2857,183 +2857,183 @@ msgid "Using more than one audio interface is currently not supported."
 msgstr ""
 
 msgid "V"
-msgstr ""
+msgstr "V"
 
 msgid "Valotti"
-msgstr ""
+msgstr "Valotti"
 
 msgid "Variable meantone 1"
-msgstr ""
+msgstr "Mesotónico variable 1"
 
 msgid "Variable meantone 2"
-msgstr ""
+msgstr "Mesotónico variable 2"
 
 msgid "Variable meantone 3"
-msgstr ""
+msgstr "Mesotónico variable 3"
 
 msgid "Variable meantone 4"
-msgstr ""
+msgstr "Mesotónico variable 4"
 
 msgid "Various comma"
 msgstr ""
 
 msgid "Victorian temperament 1885"
-msgstr ""
+msgstr "Temperamento Victoriano 1885"
 
 msgid "Volume"
-msgstr ""
+msgstr "Volumen"
 
 msgid "Volume:"
-msgstr ""
+msgstr "Volumen;"
 
 msgid "W"
-msgstr ""
+msgstr "W"
 
 msgid "WASAPI"
-msgstr ""
+msgstr "WASAPI"
 
 msgid "WAV files (*.wav)|*.wav"
-msgstr ""
+msgstr "archivos WAV (*.wav)|*.wav"
 
 msgid "Wait timed out"
 msgstr ""
 
 msgid "Warning"
-msgstr ""
+msgstr "Advertencia"
 
 msgid "Wegscheider 20 note"
 msgstr ""
 
 msgid "Well tempered"
-msgstr ""
+msgstr "Buen temperamento"
 
 msgid "Werckmeister 4 (1691)"
-msgstr ""
+msgstr "Werckmeister 4 (1691)"
 
 msgid "Werckmeister 5 (1691)"
-msgstr ""
+msgstr "Werckmeister 5 (1691)"
 
 msgid "Werckmeister 6"
-msgstr ""
+msgstr "Werckmeister 6"
 
 msgid "Werckmeister III"
-msgstr ""
+msgstr "Werckmeister III"
 
 msgid "William Holder equal beating (1694)"
-msgstr ""
+msgstr "William Holder batimentos iguales (1694)"
 
 #, c-format
 msgid "Windchest %d"
-msgstr ""
+msgstr "Fuelle %d"
 
 msgid "Windows DirectSound"
-msgstr ""
+msgstr "Windows DirectSound"
 
 msgid "Windows WASAPI"
-msgstr ""
+msgstr "Windows WASAPI"
 
 msgid "Windows WDM-KS"
-msgstr ""
+msgstr "Windows WDM-KS"
 
 msgid "Windows left"
 msgstr "Windows izquierda"
 
 msgid "Windows menu"
-msgstr ""
+msgstr "menú de Windows"
 
 msgid "Windows right"
 msgstr "Windows derecha"
 
 msgid "X"
-msgstr ""
+msgstr "X"
 
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgid "Z"
-msgstr ""
+msgstr "Z"
 
 msgid "ZIP uses not supported compression flags"
 msgstr ""
 
 msgid "ZIP uses not supported features"
-msgstr ""
+msgstr "ZIP usa características no soportadas"
 
 msgid "ZIP64 uses not supported features"
-msgstr ""
+msgstr "ZIP64 usa características no soportadas"
 
 msgid "Zarlino (1558) 2/7-comma meantone"
-msgstr ""
+msgstr "Zarlino (1558) Mesotónico 2/7-coma"
 
 msgid "Zip64 end record not found"
 msgstr ""
 
 msgid "_"
-msgstr ""
+msgstr "_"
 
 #, c-format
 msgid "__%d"
-msgstr ""
+msgstr "__%d"
 
 msgid "__0"
-msgstr ""
+msgstr "__0"
 
 msgid "__1"
-msgstr ""
+msgstr "__1"
 
 msgid "__2"
-msgstr ""
+msgstr "__2"
 
 msgid "__3"
-msgstr ""
+msgstr "__3"
 
 msgid "__4"
-msgstr ""
+msgstr "__4"
 
 msgid "__5"
-msgstr ""
+msgstr "__5"
 
 msgid "__6"
-msgstr ""
+msgstr "__6"
 
 msgid "__7"
-msgstr ""
+msgstr "__7"
 
 msgid "__8"
-msgstr ""
+msgstr "__8"
 
 msgid "__9"
-msgstr ""
+msgstr "__9"
 
 msgid "`"
-msgstr ""
+msgstr "`"
 
 msgid "a"
-msgstr ""
+msgstr "la"
 
 msgid "a#"
-msgstr ""
+msgstr "la#"
 
 msgid "add"
 msgstr "añadir"
 
 msgid "alt"
-msgstr ""
+msgstr "alt"
 
 msgid "b"
-msgstr ""
+msgstr "si"
 
 msgid "back"
 msgstr "atrás"
 
 msgid "bad format!"
-msgstr ""
+msgstr "¡formato incorrecto!"
 
 msgid "bad return format!"
-msgstr ""
+msgstr "¡formato de retorno incorrecto!"
 
 #, c-format
 msgid "bitmap size does not match for '%s'"
@@ -3044,10 +3044,10 @@ msgid "bitmap size of '%s' does not match mask '%s'"
 msgstr ""
 
 msgid "c"
-msgstr ""
+msgstr "do"
 
 msgid "c#"
-msgstr ""
+msgstr "do#"
 
 msgid "capital"
 msgstr "mayúsculas"
@@ -3060,10 +3060,10 @@ msgid "control"
 msgstr ""
 
 msgid "d"
-msgstr ""
+msgstr "re"
 
 msgid "d#"
-msgstr ""
+msgstr "re#"
 
 msgid "d'Alembert modified meantone (1726)"
 msgstr ""
@@ -3087,7 +3087,7 @@ msgid "down"
 msgstr "abajo"
 
 msgid "e"
-msgstr ""
+msgstr "mi"
 
 msgid "enclosure not found"
 msgstr ""
@@ -3102,19 +3102,19 @@ msgid "execute"
 msgstr "ejecutar"
 
 msgid "f"
-msgstr ""
+msgstr "fa"
 
 msgid "f#"
-msgstr ""
+msgstr "fa#"
 
 msgid "g"
-msgstr ""
+msgstr "sol"
 
 msgid "g#"
-msgstr ""
+msgstr "sol#"
 
 msgid "h"
-msgstr ""
+msgstr "h"
 
 msgid "help"
 msgstr "ayuda"
@@ -3123,7 +3123,7 @@ msgid "home"
 msgstr "inicio"
 
 msgid "i"
-msgstr ""
+msgstr "i"
 
 msgid "insert"
 msgstr "insertar"
