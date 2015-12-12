@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-12 17:36+0100\n"
+"PO-Revision-Date: 2015-12-12 17:39+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -1107,14 +1107,14 @@ msgid "Equal temperament"
 msgstr ""
 
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 msgid "Error decoding a track"
-msgstr ""
+msgstr "Error decodificanto una pista"
 
 #, c-format
 msgid "Error while loading samples for rank %s pipe %s: %s"
-msgstr ""
+msgstr "Error al cargar muestras para fila %s tubo %s: %s"
 
 msgid "Event-&No"
 msgstr ""
@@ -1130,82 +1130,82 @@ msgid "Excess information in zip64 extendend information record"
 msgstr ""
 
 msgid "Export Settings"
-msgstr ""
+msgstr "Exportar Configuraciones"
 
 msgid "F"
 msgstr ""
 
 msgid "F1"
-msgstr ""
+msgstr "F1"
 
 msgid "F10"
-msgstr ""
+msgstr "F10"
 
 msgid "F11"
-msgstr ""
+msgstr "F11"
 
 msgid "F12"
-msgstr ""
+msgstr "F12"
 
 msgid "F13"
-msgstr ""
+msgstr "F13"
 
 msgid "F14"
-msgstr ""
+msgstr "F14"
 
 msgid "F15"
-msgstr ""
+msgstr "F15"
 
 msgid "F16"
-msgstr ""
+msgstr "F16"
 
 msgid "F17"
-msgstr ""
+msgstr "F17"
 
 msgid "F18"
-msgstr ""
+msgstr "F18"
 
 msgid "F19"
-msgstr ""
+msgstr "F19"
 
 msgid "F2"
-msgstr ""
+msgstr "F2"
 
 msgid "F20"
-msgstr ""
+msgstr "F20"
 
 msgid "F21"
-msgstr ""
+msgstr "F21"
 
 msgid "F22"
-msgstr ""
+msgstr "F22"
 
 msgid "F23"
-msgstr ""
+msgstr "F23"
 
 msgid "F24"
-msgstr ""
+msgstr "F24"
 
 msgid "F3"
-msgstr ""
+msgstr "F3"
 
 msgid "F4"
-msgstr ""
+msgstr "F4"
 
 msgid "F5"
-msgstr ""
+msgstr "F5"
 
 msgid "F6"
-msgstr ""
+msgstr "F6"
 
 msgid "F7"
-msgstr ""
+msgstr "F7"
 
 msgid "F8"
-msgstr ""
+msgstr "F8"
 
 msgid "F9"
-msgstr ""
+msgstr "F9"
 
 #, c-format
 msgid "Failed to create directory '%s'"
