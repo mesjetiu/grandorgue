@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-12 23:06+0100\n"
+"PO-Revision-Date: 2015-12-12 23:33+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -21,18 +21,18 @@ msgid "\n"
 msgstr "\n"
 
 msgid " (PA): "
-msgstr "(PA):"
+msgstr " (PA): "
 
 msgid " - "
-msgstr "-"
+msgstr " - "
 
 #, c-format
 msgid " from %s"
-msgstr "desde %s"
+msgstr " desde %s"
 
 #, c-format
 msgid " from '%s' (%s)"
-msgstr "desde '%s' (%s)"
+msgstr " desde '%s' (%s)"
 
 msgid "\""
 msgstr "\""
@@ -130,7 +130,7 @@ msgid "&Audio/Midi"
 msgstr "&Audio/Midi"
 
 msgid "&Bit number:"
-msgstr "&Número de bits"
+msgstr "&Número de bits:"
 
 msgid "&CTRL/PGM:"
 msgstr "&CTRL/PGM:"
@@ -139,19 +139,19 @@ msgid "&Cache"
 msgstr "&Caché"
 
 msgid "&Channel:"
-msgstr "&Canal"
+msgstr "&Canal:"
 
 msgid "&Close"
 msgstr "&Cerrar"
 
 msgid "&Color:"
-msgstr "&Color"
+msgstr "&Color:"
 
 msgid "&Controller-No:"
 msgstr "&Controlador-Número:"
 
 msgid "&Convolution reverb"
-msgstr "&Reverberación de Convolución"
+msgstr "&Reverberación de convolución"
 
 msgid "&Data:"
 msgstr ""
@@ -166,7 +166,7 @@ msgid "&Detect complex MIDI setup"
 msgstr "&Detectar configuración compleja de MIDI"
 
 msgid "&Device:"
-msgstr "&Dispositivo"
+msgstr "&Dispositivo:"
 
 msgid "&Down"
 msgstr "&Abajo"
@@ -175,7 +175,7 @@ msgid "&Enhancements"
 msgstr "&Mejoras"
 
 msgid "&Event:"
-msgstr "&Evento"
+msgstr "&Evento:"
 
 msgid "&Export Settings/Combinations"
 msgstr "&Exportar Configuraciones/Combinaciones"
@@ -196,7 +196,7 @@ msgid "&Highest key:"
 msgstr "&Tecla más aguda:"
 
 msgid "&ID:"
-msgstr "&ID"
+msgstr "&ID:"
 
 msgid "&Import Settings"
 msgstr "&Importar Configuraciones"
@@ -229,7 +229,7 @@ msgid "&Metronome"
 msgstr "&Metrónomo"
 
 msgid "&Off NRPN number:"
-msgstr "&"
+msgstr ""
 
 msgid "&Off RPN number:"
 msgstr "&Off número RPN:"
@@ -241,10 +241,10 @@ msgid "&Off value:"
 msgstr "&Valor Off:"
 
 msgid "&On NRPN number:"
-msgstr "&On número NRPN"
+msgstr "&On número NRPN:"
 
 msgid "&On RPN number:"
-msgstr "&On número RPN"
+msgstr "&On número RPN:"
 
 msgid "&On value:"
 msgstr "&Valor On:"
@@ -1437,7 +1437,7 @@ msgid "IEEE Float"
 msgstr "IEEE Float"
 
 msgid "INCOMPLETE - "
-msgstr "INCOMPOLETO - "
+msgstr "INCOMPLETO - "
 
 msgid "Ignore pitch info in organ samples wav files"
 msgstr ""
@@ -1921,7 +1921,7 @@ msgid "Memory Level"
 msgstr "Nivel de Memoria"
 
 msgid "Memory Limit (MB):"
-msgstr "Límite de Memoria (MB)"
+msgstr "Límite de Memoria (MB):"
 
 msgid "Memory Set"
 msgstr "Set de Memoria"
@@ -1956,7 +1956,7 @@ msgid "Midi & Audio Settings"
 msgstr "Configuraciones Midi & Audio"
 
 msgid "Midi player directory:"
-msgstr "Directorio del reproductor Midi"
+msgstr "Directorio del reproductor Midi:"
 
 #, c-format
 msgid "Midi-Settings for %s - %s"
@@ -2117,9 +2117,7 @@ msgid "Only non-splitted ZIP archives are supported"
 msgstr "Sólo son soportados archivos ZIP no partidos"
 
 msgid "Only non-splitted ZIP64 archives are supported"
-msgstr ""
-"Sólo son soportados archivos ZIP64\n"
-" no partidos"
+msgstr "Sólo son soportados archivos ZIP64 no partidos"
 
 msgid "Only non-splitted archive is supported"
 msgstr "Sólo son soportados archivos no partidos"
@@ -2600,7 +2598,7 @@ msgid "Set"
 msgstr ""
 
 msgid "Setting import/export directory:"
-msgstr "Directorio para importar/exportar configuraciones"
+msgstr "Directorio para importar/exportar configuraciones:"
 
 msgid "Settings"
 msgstr "Configuraciones"
@@ -2891,7 +2889,7 @@ msgid "Volume"
 msgstr "Volumen"
 
 msgid "Volume:"
-msgstr "Volumen;"
+msgstr "Volumen:"
 
 msgid "W"
 msgstr "W"
