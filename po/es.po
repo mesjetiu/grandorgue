@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-12 17:39+0100\n"
+"PO-Revision-Date: 2015-12-12 22:11+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -1372,90 +1372,91 @@ msgid "Generals"
 msgstr ""
 
 msgid "Gottfried Silbermann nr 1"
-msgstr ""
+msgstr "Gottfried Silbermann nr 1"
 
 msgid "Grammateus (1518)"
-msgstr ""
+msgstr "Grammateus (1518)"
 
 msgid "GrandOrgue"
-msgstr ""
+msgstr "GrandOrgue"
 
 #, c-format
 msgid "GrandOrgue %s"
-msgstr ""
+msgstr "GrandOrgue %s"
 
 #, c-format
 msgid "GrandOrgue %s - Virtual Pipe Organ Software"
-msgstr ""
+msgstr "GrandOrgue %s - Software de Órgano de Tubos Virtual"
 
 msgid "GrandOrgue Input"
-msgstr ""
+msgstr "GrandOrgue Input"
 
 msgid "GrandOrgue MIDI Player"
-msgstr ""
+msgstr "Reproductor MIDI de GrandOrgue"
 
 msgid "GrandOrgue Output"
-msgstr ""
+msgstr "GrandOrgue Output"
 
 msgid "Group"
-msgstr ""
+msgstr "Grupo"
 
 msgid "H"
-msgstr ""
+msgstr "H"
 
 msgid "H&ighest velocity:"
-msgstr ""
+msgstr "H&ighest velocity:"
 
 msgid "Harpsichord/Piano/Monochord"
-msgstr ""
+msgstr "Clave/Piano/Nonocordio"
 
 msgid "Henri Arnaut De Zwolle. (1436)."
-msgstr ""
+msgstr "Henri Arnaut De Zwolle. (1436)."
 
 msgid "Heun (Jan) 1805"
-msgstr ""
+msgstr "Heun (Jan) 1805"
 
 msgid "Hinsz (1704 - 1785), Pelstergasthuiskerk Groningen"
-msgstr ""
+msgstr "Hinsz (1704 - 1785), Pelstergasthuiskerk Groningen"
 
 msgid "Holden (John) 1770"
-msgstr ""
+msgstr "Holden (John) 1770"
 
 msgid "Host API not found"
 msgstr ""
 
 msgid "Hummel's quasi-equal temperament (1829)"
-msgstr ""
+msgstr "Temperamento casi igual de Hummel (1829)"
 
 msgid "I"
-msgstr ""
+msgstr "I"
 
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgid "IEEE Float"
-msgstr ""
+msgstr "IEEE Float"
 
 msgid "INCOMPLETE - "
-msgstr ""
+msgstr "INCOMPOLETO - "
 
 msgid "Ignore pitch info in organ samples wav files"
 msgstr ""
+"Ignorar la información de pitch en los archivos wav de muestras de órgano"
 
 msgid "Illegal combination of I/O devices"
 msgstr "Combinación ilegal de dispositivos I/O"
 
 msgid "Import"
-msgstr ""
+msgstr "Importar"
 
 msgid "Import &Combinations"
-msgstr ""
+msgstr "Importar &Combinaciones"
 
 msgid "Import Combinations"
-msgstr ""
+msgstr "Importar Combinaciones"
 
 msgid "Import Settings"
-msgstr ""
+msgstr "Importar Configuraciones"
 
 msgid "Impulse response:"
 msgstr ""
@@ -1468,7 +1469,7 @@ msgstr ""
 
 #, c-format
 msgid "Incomplete MIDI message at %d"
-msgstr ""
+msgstr "Mensaje MIDI incompleto en %d"
 
 msgid "Incomplete central directory entry"
 msgstr ""
@@ -1484,7 +1485,7 @@ msgid "Incomplete chunk at offset %d"
 msgstr ""
 
 msgid "Incomplete file content"
-msgstr ""
+msgstr "Contenido de archivo incompleto"
 
 msgid "Incomplete local record"
 msgstr ""
@@ -1511,26 +1512,26 @@ msgid "Index '%s' has bad magic - bypassing index"
 msgstr ""
 
 msgid "Info"
-msgstr ""
+msgstr "Información"
 
 msgid "InfoFilename does not point to a html file"
-msgstr ""
+msgstr "InfoFilename no apunta a un archivo html"
 
 msgid "Initial MIDI Configuration"
-msgstr ""
+msgstr "Configuración MIDI inicial"
 
 #, c-format
 msgid "Initial MIDI settings for %s"
-msgstr ""
+msgstr "Configuraciones MIDI iniciales para %s"
 
 msgid "Input overflowed"
 msgstr ""
 
 msgid "Insert"
-msgstr ""
+msgstr "Insertar"
 
 msgid "Install organ package"
-msgstr ""
+msgstr "Instalar paquete de órgano"
 
 msgid "Insufficient memory"
 msgstr "Memoria insuficiente"
@@ -1539,7 +1540,7 @@ msgid "Internal PortAudio error"
 msgstr "Error interno de PortAudio"
 
 msgid "Interpolation:"
-msgstr ""
+msgstr "Interpolación:"
 
 #, c-format
 msgid "Invalid Config entry at line %d: %s"
@@ -1547,11 +1548,11 @@ msgstr "Entrada de configuración no válida en la línea %d: %s"
 
 #, c-format
 msgid "Invalid boolean value at section '%s' entry '%s': %s"
-msgstr ""
+msgstr "Valor booleano no válido en la sección '%s' entrada '%s': %s"
 
 #, c-format
 msgid "Invalid color at section '%s' entry '%s': %s"
-msgstr ""
+msgstr "Color no válido en la sección '%s' entrada '%s': %s"
 
 #, c-format
 msgid "Invalid combination entry %s in %s"
@@ -1561,15 +1562,15 @@ msgid "Invalid device"
 msgstr "Dispositivo no válido"
 
 msgid "Invalid enum default value"
-msgstr ""
+msgstr "Valor por defecto de enum no válido"
 
 #, c-format
 msgid "Invalid enum value at section '%s' entry '%s': %s"
-msgstr ""
+msgstr "Valor de enum no válido en la sección '%s' entrada '%s': %s"
 
 #, c-format
 msgid "Invalid enum value for /%s/%s: %d"
-msgstr ""
+msgstr "Valor enum no válido para /%s/%s: %d"
 
 msgid "Invalid error code"
 msgstr "Código de error no válido"
@@ -1582,11 +1583,11 @@ msgstr "Flag no válido"
 
 #, c-format
 msgid "Invalid float value at section '%s' entry '%s': %s"
-msgstr ""
+msgstr "Valor de coma flotante no válido en la sección '%s' entrada '%s': %s"
 
 #, c-format
 msgid "Invalid font size at section '%s' entry '%s': %s"
-msgstr ""
+msgstr "Tamaño de fuente no válido en la sección '%s' entrada '%s': %s"
 
 #, c-format
 msgid "Invalid free of %p"
@@ -1596,11 +1597,11 @@ msgid "Invalid host API"
 msgstr ""
 
 msgid "Invalid instance name"
-msgstr ""
+msgstr "Nombre de instancia no válido"
 
 #, c-format
 msgid "Invalid integer value at section '%s' entry '%s': %s"
-msgstr ""
+msgstr "Valor entero no válido en la sección '%s' entrada '%s': %s"
 
 #, c-format
 msgid "Invalid item selected: %s"
@@ -1622,13 +1623,13 @@ msgid "Invalid offset in Zip64 end locator"
 msgstr ""
 
 msgid "Invalid reference "
-msgstr ""
+msgstr "Referencia no válida "
 
 msgid "Invalid release end position"
-msgstr ""
+msgstr "Posición no válida de fin de decaimiento no válido"
 
 msgid "Invalid release position"
-msgstr ""
+msgstr "Posición de decaimiento no válida"
 
 msgid "Invalid reverb configuration (samples per buffer)"
 msgstr "Configuración no válida de reverberación (muestras por buffer)"
