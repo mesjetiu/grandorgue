@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-14 21:36+0100\n"
+"PO-Revision-Date: 2015-12-15 00:16+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -903,7 +903,7 @@ msgid "Couperin"
 msgstr "Couperin"
 
 msgid "Coupler"
-msgstr "Acoplar"
+msgstr "Acoplamientos"
 
 #, c-format
 msgid "Coupler %s"
@@ -1324,7 +1324,7 @@ msgid "Filename contains invalid characters"
 msgstr ""
 
 msgid "First loop"
-msgstr ""
+msgstr "Primer bucle"
 
 msgid "Fisk-Vogel: Memorial Church at Stanford"
 msgstr ""
@@ -2316,7 +2316,7 @@ msgid "Prev temperament"
 msgstr ""
 
 msgid "Previous"
-msgstr ""
+msgstr "Anterior"
 
 msgid "Previous Memory"
 msgstr ""
