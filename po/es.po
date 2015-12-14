@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-12 23:33+0100\n"
+"PO-Revision-Date: 2015-12-14 21:21+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -1133,7 +1133,7 @@ msgid "Export Settings"
 msgstr "Exportar Configuraciones"
 
 msgid "F"
-msgstr ""
+msgstr "F"
 
 msgid "F1"
 msgstr "F1"
@@ -1209,14 +1209,14 @@ msgstr "F9"
 
 #, c-format
 msgid "Failed to create directory '%s'"
-msgstr ""
+msgstr "Falló al crear el directorio '%s'"
 
 #, c-format
 msgid "Failed to decode %s"
-msgstr ""
+msgstr "Falló al decodificar %s"
 
 msgid "Failed to decode WavePack data"
-msgstr ""
+msgstr "Falló al decodificar WavePack data"
 
 #, c-format
 msgid "Failed to decode file '%s'"
@@ -1224,11 +1224,11 @@ msgstr "Falló al decodificar el archivo '%s'"
 
 #, c-format
 msgid "Failed to export settings to '%s'"
-msgstr ""
+msgstr "Falló al exportar configuraciones a '%s'"
 
 #, c-format
 msgid "Failed to load %s"
-msgstr ""
+msgstr "Falló al cargar %s"
 
 #, c-format
 msgid "Failed to load file '%s' into the memory"
@@ -1236,11 +1236,11 @@ msgstr "Falló al cargar el archivo '%s' a la memoria"
 
 #, c-format
 msgid "Failed to open %s"
-msgstr ""
+msgstr "Falló al abrir %s"
 
 #, c-format
 msgid "Failed to open '%s'"
-msgstr ""
+msgstr "Falló al abrir '%s'"
 
 #, c-format
 msgid "Failed to open file '%s'"
@@ -1248,15 +1248,15 @@ msgstr "Falló al abrir el archivo '%s'"
 
 #, c-format
 msgid "Failed to open organ package '%s' (%s)"
-msgstr ""
+msgstr "Falló al abrir el paquete de órgano '%s' (%s)"
 
 #, c-format
 msgid "Failed to open the graphic '%s'"
-msgstr ""
+msgstr "Falló al abrir el gráfico '%s'"
 
 #, c-format
 msgid "Failed to open the organ package '%s'"
-msgstr ""
+msgstr "Falló al abrir el paquete de órgano '%s'"
 
 #, c-format
 msgid "Failed to parse '%s'"
@@ -1268,11 +1268,11 @@ msgstr ""
 
 #, c-format
 msgid "Failed to read '%s'"
-msgstr ""
+msgstr "Falló al leer '%s'"
 
 #, c-format
 msgid "Failed to read content of %s"
-msgstr ""
+msgstr "Falló al leer el contenido de %s"
 
 #, c-format
 msgid "Failed to read directory '%s'"
@@ -2496,7 +2496,7 @@ msgid "Samples per buffer:"
 msgstr "Muestras por buffer:"
 
 msgid "Sampleset directory:"
-msgstr ""
+msgstr "Directorio del sampleset:"
 
 msgid "Sauveur (Memoires 1701)"
 msgstr "Sauveur (Memoires 1701)"
@@ -2515,10 +2515,10 @@ msgstr "Guardar como"
 
 #, c-format
 msgid "Save of %s to the cache failed"
-msgstr ""
+msgstr "Falló la operación de guardado de %s al caché"
 
 msgid "Scheffer (1748) modified, Sweden"
-msgstr ""
+msgstr "Scheffer (1748) modificado, Sweden"
 
 msgid "Schlick (Arnolt), 1511"
 msgstr "Schlick (Arnolt), 1511"
@@ -2540,14 +2540,14 @@ msgstr ""
 
 #, c-format
 msgid "Section %s already in use"
-msgstr ""
+msgstr "Seción %s ya en uso"
 
 #, c-format
 msgid "Seek to offset %d in archive failed"
 msgstr ""
 
 msgid "Select an impulse file"
-msgstr ""
+msgstr "Seleccione un archivo de impulso"
 
 msgid "Select audio groups to distribute:"
 msgstr ""
@@ -2589,7 +2589,7 @@ msgid "Send Division Output"
 msgstr ""
 
 msgid "Send MIDI Recorder Output Stream to "
-msgstr ""
+msgstr "Enviar Flujo de Output de la Grabadora MIDI a "
 
 msgid "Sequencer"
 msgstr "Secuenciador"
@@ -2632,31 +2632,35 @@ msgid ""
 "\n"
 "Would you like to reload the sample set now?"
 msgstr ""
+"Algunos cambios en la configuración surtirán efecto cuando se vuelva a "
+"cargar el sample set.\n"
+"\n"
+"¿Le gustaría volver a cargar ahora el sample set?"
 
 msgid "Some tracks are missing"
-msgstr ""
+msgstr "Faltan algunas pistas"
 
 msgid "Sorge Monochord (1756)"
-msgstr ""
+msgstr "Monocordio de Sorge (1756)"
 
 msgid "Sorge, 1744 (A)"
-msgstr ""
+msgstr "Sorge, 1744 (A)"
 
 msgid "Sorge, 1744 (B)"
-msgstr ""
+msgstr "Sorge, 1744 (B)"
 
 msgid "Sorge, 1758"
-msgstr ""
+msgstr "Sorge, 1758"
 
 msgid "Sound output"
-msgstr ""
+msgstr "Salida de sonido"
 
 msgid "Stade St. Cosmae"
-msgstr ""
+msgstr "Stade St. Cosmae"
 
 #, c-format
 msgid "Start of audio stream of %s failed: %s"
-msgstr ""
+msgstr "El comienzo de flujo de audio de %s falló: %s"
 
 msgid "Start offset:"
 msgstr ""
@@ -2666,17 +2670,17 @@ msgid "Status byte missing at offset %d"
 msgstr ""
 
 msgid "Stereo"
-msgstr ""
+msgstr "Stereo"
 
 msgid "Stevin (Simon), monochord 1585"
-msgstr ""
+msgstr "Stevin (Simon), monocordio 1585"
 
 msgid "Stop"
-msgstr ""
+msgstr "Stop"
 
 #, c-format
 msgid "Strange boolean value for section '%s' entry '%s': %s"
-msgstr ""
+msgstr "Extraño valor booleano para la sección '%s' entrada '%s': %s"
 
 msgid "Stream is not stopped"
 msgstr "El flujo no está detenido"
@@ -2701,18 +2705,20 @@ msgid "Sys Ex Viscount Toggle"
 msgstr ""
 
 msgid "T"
-msgstr ""
+msgstr "T"
 
 msgid "TB"
-msgstr ""
+msgstr "TB"
 
 msgid "Temperaments"
-msgstr ""
+msgstr "Temperamentos"
 
 msgid ""
 "The ODF contains GrandOrgue 0.2 styled saved settings. Should they be "
 "imported?"
 msgstr ""
+"El ODF contiene configuraciones guardadas al estilo de GrandOrgue 0.2. "
+"¿Deberían ser importadas?"
 
 msgid "The ODF does not match the combination file."
 msgstr ""
@@ -2723,7 +2729,7 @@ msgid ""
 msgstr ""
 
 msgid "The cache for this organ is outdated. Please update or delete it."
-msgstr ""
+msgstr "El caché para este órgano está desactualizado. Actualícelo o bórrelo."
 
 msgid "The organ package has been registered"
 msgstr ""
@@ -3152,37 +3158,37 @@ msgid "numlock"
 msgstr "bloqueo del teclado numérico"
 
 msgid "numpad 0"
-msgstr ""
+msgstr "numpad 0"
 
 msgid "numpad 1"
-msgstr ""
+msgstr "numpad 1"
 
 msgid "numpad 2"
-msgstr ""
+msgstr "numpad 2"
 
 msgid "numpad 3"
-msgstr ""
+msgstr "numpad 3"
 
 msgid "numpad 4"
-msgstr ""
+msgstr "numpad 4"
 
 msgid "numpad 5"
-msgstr ""
+msgstr "numpad 5"
 
 msgid "numpad 6"
-msgstr ""
+msgstr "numpad 6"
 
 msgid "numpad 7"
-msgstr ""
+msgstr "numpad 7"
 
 msgid "numpad 8"
-msgstr ""
+msgstr "numpad 8"
 
 msgid "numpad 9"
-msgstr ""
+msgstr "numpad 9"
 
 msgid "numpad equal"
-msgstr ""
+msgstr "numpad igual"
 
 msgid "organ file"
 msgstr ""
@@ -3201,11 +3207,11 @@ msgstr "imprimir"
 
 #, c-format
 msgid "rank %s pipe %s: default release is missing"
-msgstr ""
+msgstr "fila %s tubo %s: falta el decaimiento por defecto"
 
 #, c-format
 msgid "rank %s pipe %s: no pitch information provided"
-msgstr ""
+msgstr "fila %s tubo %s: no contiene información de pitch"
 
 #, c-format
 msgid "rank %s pipe %s: no release defined"
