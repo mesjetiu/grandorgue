@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-14 21:21+0100\n"
+"PO-Revision-Date: 2015-12-14 21:36+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -1709,7 +1709,7 @@ msgid "Linear"
 msgstr "Linear"
 
 msgid "Load &stereo samples in:"
-msgstr ""
+msgstr "Cargar muestras &stereo en:"
 
 msgid "Load Concurrency Level:"
 msgstr ""
@@ -1822,7 +1822,7 @@ msgid "MISSING - "
 msgstr ""
 
 msgid "MME"
-msgstr ""
+msgstr "MME"
 
 msgid "Malerbi's well-temperament nr 1 (1794)"
 msgstr "Buen temperamento nº 1 de Malerbi (1794)"
@@ -1842,7 +1842,7 @@ msgstr ""
 
 #, c-format
 msgid "Manual %d: Tremulant%03d already in use"
-msgstr ""
+msgstr "Manual %d: Tremolo%03d ya en uso"
 
 msgid "Manual 1"
 msgstr "Manual 1"
@@ -1941,13 +1941,13 @@ msgid "Mercadier's well-temperament"
 msgstr "Buen temperamento de Mercadier"
 
 msgid "Mersenne spinet 1"
-msgstr ""
+msgstr "Espineta de Mersenne 1"
 
 msgid "Mersenne spinet 2"
-msgstr ""
+msgstr "Espineta de Mersenne 2"
 
 msgid "Mersenne's Improved Meantone 1"
-msgstr ""
+msgstr "Mesotónico de Mersenne mejorado 1"
 
 msgid "Metronome"
 msgstr "Metrónomo"
@@ -1966,7 +1966,7 @@ msgid "Mismatch of local and central header"
 msgstr ""
 
 msgid "Missing local header"
-msgstr ""
+msgstr "Falta la cabecera local"
 
 #, c-format
 msgid "Missing required value section '%s' entry '%s'"
@@ -2052,7 +2052,7 @@ msgid "No device"
 msgstr "Ningún dispositivo"
 
 msgid "No end record found"
-msgstr ""
+msgstr "No se ha encontrado registro de final"
 
 msgid "No loop found"
 msgstr "Ningún bucle encontrado"
@@ -2160,7 +2160,7 @@ msgid "Organ Properties"
 msgstr "Propiedades del órgano"
 
 msgid "Organ dialog"
-msgstr ""
+msgstr "Diálogo del órgano"
 
 msgid "Organ package"
 msgstr "Paquete del órgano"
@@ -2212,6 +2212,8 @@ msgstr "Valor fuera de rango en la sección '%s' entrada '%s': %f"
 #, c-format
 msgid "Output device %s not found - no sound output will occure"
 msgstr ""
+"Dispositivo de salida %s no encontrado - no tendrá lugar ninguna salida de "
+"sonido"
 
 msgid "Output underflowed"
 msgstr ""
@@ -2247,10 +2249,10 @@ msgid "Piston"
 msgstr ""
 
 msgid "Play &MIDI\tCtrl+P"
-msgstr ""
+msgstr "Play &MIDI\tCtrl+P"
 
 msgid "Please apply changes first"
-msgstr ""
+msgstr "Aplique los cambios primero"
 
 msgid "Please enter a volume between -120 and 40 dB"
 msgstr "Introduzca un volumen entre -120 y 40 dB"
@@ -2283,7 +2285,7 @@ msgid "Please toggle it again (to off state, if possible)"
 msgstr ""
 
 msgid "Polyphase"
-msgstr ""
+msgstr "Polyphase"
 
 msgid ""
 "Polyphase is not supported with lossless compression - falling back to "
@@ -2298,7 +2300,7 @@ msgid "PortAudio not initialized"
 msgstr "PortAudio no inicializado"
 
 msgid "Pr&eset"
-msgstr ""
+msgstr "Pr&eset"
 
 msgid "Prelleur (Peter) 1731"
 msgstr "Prelleur (Peter) 1731"
@@ -2326,10 +2328,10 @@ msgid "PulseAudio"
 msgstr "PulseAudio"
 
 msgid "Pure Major"
-msgstr ""
+msgstr "Mayor puro"
 
 msgid "Pure Minor"
-msgstr ""
+msgstr "Menor puro"
 
 msgid "Pythagorean"
 msgstr "Pitagórico"
@@ -2769,34 +2771,34 @@ msgid "Trailing whitespace at section '%s' entry '%s': %s"
 msgstr ""
 
 msgid "Transpose"
-msgstr ""
+msgstr "Transpositor"
 
 msgid "Transpose +"
-msgstr ""
+msgstr "Transportar +"
 
 msgid "Transpose -"
-msgstr ""
+msgstr "Transportar -"
 
 msgid "Tremulant"
-msgstr ""
+msgstr "Trémolo"
 
 msgid "Tuning (Cent):"
-msgstr ""
+msgstr "Afinación (Cents):"
 
 msgid "Tuning and Voicing"
-msgstr ""
+msgstr "Afinación y Armonización"
 
 msgid "Tuning is invalid"
-msgstr ""
+msgstr "La afinación no es válida"
 
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 msgid "U"
-msgstr ""
+msgstr "U"
 
 msgid "U.O."
-msgstr ""
+msgstr "U.O."
 
 #, c-format
 msgid "Unable to open file %s for writing"
@@ -2804,44 +2806,44 @@ msgstr "Imposible de abrir archivo %s para escribir"
 
 #, c-format
 msgid "Unable to read '%s'"
-msgstr ""
+msgstr "Imposible de leer '%s'"
 
 msgid "Unanticipated host error"
 msgstr "Error inesperado de servidor"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Desconocido"
 
 #, c-format
 msgid "Unknown MIDI message %02X at %d"
-msgstr ""
+msgstr "Mensaje MIDI desconocido %02X en %d"
 
 msgid "Unknown attributes"
-msgstr ""
+msgstr "Atributos desconocidos"
 
 #, c-format
 msgid "Unknown extendend information %04x"
-msgstr ""
+msgstr "Información extendida desconocida %04x"
 
 msgid "Unknown: "
-msgstr ""
+msgstr "Desconocido: "
 
 #, c-format
 msgid "Unkown MIDI file type %d"
-msgstr ""
+msgstr "Tipo de archivo MIDI %d desconocido"
 
 #, c-format
 msgid "Unkown SetterElement in section %s"
-msgstr ""
+msgstr "SetterElement desconocido en la sección %s"
 
 msgid "Unsupported channel count"
 msgstr ""
 
 msgid "Unsupported channel number"
-msgstr ""
+msgstr "Número de canal no soportado"
 
 msgid "Unsupported format"
-msgstr ""
+msgstr "Formato no soportado"
 
 #, c-format
 msgid "Unused CMB entry '%s'"
@@ -2852,20 +2854,20 @@ msgid "Unused ODF entry '%s'"
 msgstr ""
 
 msgid "User"
-msgstr ""
+msgstr "Usuario"
 
 msgid "User Interface"
-msgstr ""
+msgstr "Interfaz de usuario"
 
 msgid "User Temperament"
-msgstr ""
+msgstr "Temperamento del usuario"
 
 #, c-format
 msgid "Using helpfile %s (search path: %s)"
-msgstr ""
+msgstr "Usando el archivo de ayuda %s (buscar ruta: %s)"
 
 msgid "Using more than one audio interface is currently not supported."
-msgstr ""
+msgstr "El uso de más de una interfaz de audio no está soportado actualmente."
 
 msgid "V"
 msgstr "V"
@@ -2907,7 +2909,7 @@ msgid "WAV files (*.wav)|*.wav"
 msgstr "archivos WAV (*.wav)|*.wav"
 
 msgid "Wait timed out"
-msgstr ""
+msgstr "Tiempo de espera terminado"
 
 msgid "Warning"
 msgstr "Advertencia"
@@ -2980,7 +2982,7 @@ msgid "Zarlino (1558) 2/7-comma meantone"
 msgstr "Zarlino (1558) Mesotónico 2/7-coma"
 
 msgid "Zip64 end record not found"
-msgstr ""
+msgstr "Registro de final de Zip64 no encontrado"
 
 msgid "_"
 msgstr "_"
@@ -3068,7 +3070,7 @@ msgid "caught exception: %s\n"
 msgstr "excepción manejada: %s\n"
 
 msgid "control"
-msgstr ""
+msgstr "control"
 
 msgid "d"
 msgstr "re"
@@ -3077,13 +3079,13 @@ msgid "d#"
 msgstr "re#"
 
 msgid "d'Alembert modified meantone (1726)"
-msgstr ""
+msgstr "Mesotónico d'Alembert modificado (1726)"
 
 msgid "d'Alembert's: John Sankey's Scarlatti"
 msgstr ""
 
 msgid "decimal"
-msgstr ""
+msgstr "decimal"
 
 msgid "delete"
 msgstr "eliminar"
@@ -3107,7 +3109,7 @@ msgid "end"
 msgstr "fin"
 
 msgid "escape"
-msgstr ""
+msgstr "escape"
 
 msgid "execute"
 msgstr "ejecutar"
@@ -3140,16 +3142,16 @@ msgid "insert"
 msgstr "insertar"
 
 msgid "instance"
-msgstr ""
+msgstr "instancia"
 
 msgid "left"
 msgstr "izquierda"
 
 msgid "licensed under the GNU GPLv2 (or later)"
-msgstr ""
+msgstr "licenciado bajo la GNU GPLv2 (o posterior)"
 
 msgid "menu"
-msgstr ""
+msgstr "menú"
 
 msgid "multiply"
 msgstr "multiplicar"
