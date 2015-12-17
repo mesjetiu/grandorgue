@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-17 01:30+0100\n"
+"PO-Revision-Date: 2015-12-17 01:44+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -908,7 +908,7 @@ msgstr "Acoplamiento"
 
 #, c-format
 msgid "Coupler %s"
-msgstr "Acoplamiento %s"
+msgstr "Acoplamiento al %s"
 
 msgid "Coupler manuals and volume"
 msgstr "Manuales de acoplamiento y volumen"
@@ -1925,7 +1925,7 @@ msgid "Memory Limit (MB):"
 msgstr "Límite de Memoria (MB):"
 
 msgid "Memory Set"
-msgstr "Set de Memoria"
+msgstr "Configurar memorias"
 
 #, c-format
 msgid "Memory mapping of the cache file failed with error code %d"
