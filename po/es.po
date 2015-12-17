@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-17 01:28+0100\n"
+"PO-Revision-Date: 2015-12-17 01:30+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -915,7 +915,7 @@ msgstr "Manuales de acoplamiento y volumen"
 
 #, c-format
 msgid "Coupling manual %d"
-msgstr "Manual de acoplamiento %d"
+msgstr "Teclado de acoplamiento %d"
 
 msgid "Creating sample cache"
 msgstr ""
@@ -1835,7 +1835,7 @@ msgid "Malformed zip64 end record"
 msgstr ""
 
 msgid "Manual"
-msgstr "Manual"
+msgstr "Teclado"
 
 #, c-format
 msgid "Manual %d: Switch%03d already in use"
@@ -1843,22 +1843,22 @@ msgstr ""
 
 #, c-format
 msgid "Manual %d: Tremulant%03d already in use"
-msgstr "Manual %d: Tremolo%03d ya en uso"
+msgstr "Teclado %d: Tremolo%03d ya en uso"
 
 msgid "Manual 1"
-msgstr "Manual 1"
+msgstr "Teclado 1"
 
 msgid "Manual 2"
-msgstr "Manual 2"
+msgstr "Teclado 2"
 
 msgid "Manual 3"
-msgstr "Manual 3"
+msgstr "Teclado 3"
 
 msgid "Manual 4"
-msgstr "Manual 4"
+msgstr "Teclado 4"
 
 msgid "Manual 5"
-msgstr "Manual 5"
+msgstr "Teclado 5"
 
 #, c-format
 msgid "Manual key %d outside of the bounding box"
