@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-17 00:48+0100\n"
+"PO-Revision-Date: 2015-12-17 01:28+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -78,7 +78,7 @@ msgstr "%d: %s"
 
 #, c-format
 msgid "%f cent"
-msgstr "%f cent"
+msgstr "%f cents"
 
 #, c-format
 msgid "%s"
@@ -911,11 +911,11 @@ msgid "Coupler %s"
 msgstr "Acoplamiento %s"
 
 msgid "Coupler manuals and volume"
-msgstr ""
+msgstr "Manuales de acoplamiento y volumen"
 
 #, c-format
 msgid "Coupling manual %d"
-msgstr ""
+msgstr "Manual de acoplamiento %d"
 
 msgid "Creating sample cache"
 msgstr ""
@@ -1907,7 +1907,7 @@ msgid "Master"
 msgstr ""
 
 msgid "Master Controls"
-msgstr ""
+msgstr "Controles maestros"
 
 msgid "Max"
 msgstr ""
