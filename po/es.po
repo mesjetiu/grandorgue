@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-18 01:43+0100\n"
+"PO-Revision-Date: 2015-12-18 02:15+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -918,7 +918,7 @@ msgid "Coupling manual %d"
 msgstr "Teclado de acoplamiento %d"
 
 msgid "Creating sample cache"
-msgstr ""
+msgstr "Creando caché de muestras"
 
 msgid "Creating the cache failed"
 msgstr ""
@@ -1355,16 +1355,16 @@ msgid "Gain (dB):"
 msgstr "Ganancia (dB):"
 
 msgid "Gain is invalid"
-msgstr ""
+msgstr "La ganancia no es válida"
 
 msgid "Gain:"
-msgstr ""
+msgstr "Ganancia:"
 
 msgid "Ganassi (Sylvestro) - 1543"
-msgstr ""
+msgstr "Ganassi (Sylvestro) - 1543"
 
 msgid "Garbage detected in the MIDI file"
-msgstr ""
+msgstr "Se ha detectado basura en el archivo MIDI"
 
 msgid "General"
 msgstr ""
@@ -1499,11 +1499,11 @@ msgid "Incomplete zip64 extendend information record"
 msgstr ""
 
 msgid "Inconsitant WavPack file"
-msgstr ""
+msgstr "Archivo WavPack inconsistente"
 
 #, c-format
 msgid "Incorrect case for section '%s' entry '%s'"
-msgstr ""
+msgstr "Caso incorrecto para la sección '%s' entrada '%s'"
 
 msgid "Incorrect track count"
 msgstr ""
@@ -1526,7 +1526,7 @@ msgid "Initial MIDI settings for %s"
 msgstr "Configuraciones MIDI iniciales para %s"
 
 msgid "Input overflowed"
-msgstr ""
+msgstr "Entrada desbordada"
 
 msgid "Insert"
 msgstr "Insertar"
@@ -1656,13 +1656,13 @@ msgid "J"
 msgstr "J"
 
 msgid "JACK Audio Connection Kit"
-msgstr ""
+msgstr "Kit de Conexión de Audio JACK"
 
 msgid "Jack"
-msgstr ""
+msgstr "Jack"
 
 msgid "Jack: "
-msgstr ""
+msgstr "Jack: "
 
 msgid "K"
 msgstr "K"
@@ -1689,7 +1689,7 @@ msgid "L"
 msgstr "L"
 
 msgid "L&ower limit:"
-msgstr ""
+msgstr "Límite inferi&or:"
 
 msgid "L&owest velocity:"
 msgstr "Men&or velocidad:"
@@ -1780,10 +1780,10 @@ msgid "MIDI"
 msgstr "MIDI"
 
 msgid "MIDI &input devices"
-msgstr ""
+msgstr "Dispositivos de entrada MIDI"
 
 msgid "MIDI &output devices"
-msgstr ""
+msgstr "Dispositivos de salida MIDI"
 
 msgid "MIDI Devices"
 msgstr "Dispositivos MIDI"
@@ -1910,7 +1910,7 @@ msgid "Master Controls"
 msgstr "Controles maestros"
 
 msgid "Max"
-msgstr ""
+msgstr "Max"
 
 msgid "Measure +"
 msgstr ""
@@ -2131,7 +2131,7 @@ msgstr "Abrir &Reciente"
 
 #, c-format
 msgid "Open of the audio stream for %s failed: %s"
-msgstr ""
+msgstr "La apertura del flujo de audio para %s ha fallado: %s"
 
 msgid "Open organ"
 msgstr "Abrir órgano"
@@ -2201,6 +2201,8 @@ msgid ""
 "Out of memory - only parts of the organ are loaded. Please reduce memory "
 "footprint via the sample loading settings."
 msgstr ""
+"Sin memoria - se han cargado sólo algunas partes del órgano. Reduzca el uso "
+"de memoria en las configuraciones de carga de muestras."
 
 #, c-format
 msgid "Out of range value at section '%s' entry '%s': %d"
@@ -2232,10 +2234,10 @@ msgid "Parent default"
 msgstr ""
 
 msgid "Parsing organ packages"
-msgstr ""
+msgstr "Analizando los paquetes de órgano"
 
 msgid "Parsing sample set definition file"
-msgstr ""
+msgstr "Analizando el archivo de definición del set de muestras"
 
 msgid "Path"
 msgstr "Ruta"
@@ -2244,7 +2246,7 @@ msgid "Pedal"
 msgstr "Pedal"
 
 msgid "Perform strict ODF"
-msgstr ""
+msgstr "Interpretar ODF estricto"
 
 msgid "Piston"
 msgstr ""
@@ -2262,10 +2264,10 @@ msgid "Please enter new volume in dB:"
 msgstr "Introduzca el nuevo volumen en dB:"
 
 msgid "Please fully close the enclosure"
-msgstr ""
+msgstr "Cierre completamente el pedal"
 
 msgid "Please fully open the enclosure"
-msgstr ""
+msgstr "Abra totalmente el pedal"
 
 msgid "Please press the MIDI element"
 msgstr "Presione el elemento MIDI"
@@ -2280,10 +2282,10 @@ msgid "Please select an organ"
 msgstr "Seleccione un órgano"
 
 msgid "Please toggle it (to on state, if possible)"
-msgstr ""
+msgstr "Por favor, cámbielo (al estado \"on\", si es posible)"
 
 msgid "Please toggle it again (to off state, if possible)"
-msgstr ""
+msgstr "Por favor, cámbielo de nuevo (al estado \"off\", si es posible)"
 
 msgid "Polyphase"
 msgstr "Polyphase"
@@ -2311,16 +2313,16 @@ msgid "Preset %d"
 msgstr "Preajuste %d"
 
 msgid "Prev"
-msgstr ""
+msgstr "Anterior"
 
 msgid "Prev temperament"
-msgstr ""
+msgstr "Anterior temperamento"
 
 msgid "Previous"
 msgstr "Anterior"
 
 msgid "Previous Memory"
-msgstr ""
+msgstr "Anterior memoria"
 
 msgid "Properties"
 msgstr "Propiedades"
@@ -2390,7 +2392,7 @@ msgstr "Recargar"
 
 #, c-format
 msgid "Read from the archive failed (%d bytes)"
-msgstr ""
+msgstr "Ha fallado la lectura desde el archivo (%d bytes)"
 
 msgid "Receive"
 msgstr "Recibir"
@@ -2432,10 +2434,10 @@ msgid "Resampling failed"
 msgstr "El remuestreo a fallado"
 
 msgid "Reset"
-msgstr ""
+msgstr "Reset"
 
 msgid "Reset to &Defaults"
-msgstr ""
+msgstr "Volver a valores por &defecto"
 
 msgid "Reverb"
 msgstr "Reverberación"
@@ -2455,11 +2457,11 @@ msgstr "Temperamento de Rousseau (1768)"
 
 #, c-format
 msgid "RtAudio error: %s"
-msgstr ""
+msgstr "RtAudio error: %s"
 
 #, c-format
 msgid "RtMidi error: %s"
-msgstr ""
+msgstr "RtMidi error: %s"
 
 msgid "S"
 msgstr "S"
@@ -2474,7 +2476,7 @@ msgid "Sample Loading"
 msgstr "Cargando muestra"
 
 msgid "Sample Rate:"
-msgstr "Velocidad de muestreo:"
+msgstr "Frecuenca de muestreo:"
 
 msgid "Sample Size:"
 msgstr "Tamaño de muestra:"
@@ -2487,7 +2489,7 @@ msgstr "Formato de muestra no soportado"
 
 #, c-format
 msgid "Sample rate of device %s changed"
-msgstr ""
+msgstr "Ha cambiado la frecuencia de muestreo del dispositivo %s"
 
 msgid "Sample set definition files (*.organ)|*.organ"
 msgstr "Archivos de definición de set de muestras (*.organ)|*.organ"
@@ -2724,18 +2726,20 @@ msgstr ""
 "¿Deberían ser importadas?"
 
 msgid "The ODF does not match the combination file."
-msgstr ""
+msgstr "El ODF no se corresponde con el archivo de combinaciones."
 
 msgid ""
 "The ODF does not match the combination file. Importing it can cause various "
 "problems. Should they really be imported?"
 msgstr ""
+"El ODF no se corresponde con el archivo de combinaciones. Su importación "
+"puede causar varios problemas. ¿Debería ser realmente importado?"
 
 msgid "The cache for this organ is outdated. Please update or delete it."
 msgstr "El caché para este órgano está desactualizado. Actualícelo o bórrelo."
 
 msgid "The organ package has been registered"
-msgstr ""
+msgstr "El paquete de órgano ha sido registrado"
 
 msgid "The organ settings have been modified. Do you want to save the changes?"
 msgstr ""
@@ -2747,9 +2751,11 @@ msgid ""
 "This combination file is only compatible with:\n"
 "%s"
 msgstr ""
+"Este archivo de combinaciones es compatible sólamente con:\n"
+"%s"
 
 msgid "This feature is currently not supported."
-msgstr ""
+msgstr "Esta característica no está soportada actualmente"
 
 msgid "Thomas/Philpott 1829/1881 organ, St. Jansklooster"
 msgstr ""
@@ -2762,6 +2768,7 @@ msgstr "Nombre"
 
 msgid "Too many audio channels configured for the new audio interface"
 msgstr ""
+"Demasiados canales de audio configurados para la nueva interfaz de audio"
 
 msgid "Tracker (ms):"
 msgstr ""
@@ -2891,7 +2898,7 @@ msgid "Variable meantone 4"
 msgstr "Mesotónico variable 4"
 
 msgid "Various comma"
-msgstr ""
+msgstr "Varios comas"
 
 msgid "Victorian temperament 1885"
 msgstr "Temperamento Victoriano 1885"
