@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-18 02:15+0100\n"
+"PO-Revision-Date: 2015-12-18 02:35+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -62,7 +62,7 @@ msgstr "%d (%s)"
 
 #, c-format
 msgid "%d BPM"
-msgstr "%d BPM"
+msgstr "%d PPM"
 
 #, c-format
 msgid "%d ms"
@@ -610,7 +610,7 @@ msgid "Alexander Metcalf Fisher"
 msgstr "Alexander Metcalf Fisher"
 
 msgid "All"
-msgstr "Todo"
+msgstr "Todos"
 
 msgid "All loops"
 msgstr "Todos los bucles"
@@ -650,7 +650,7 @@ msgid "Apply"
 msgstr "Aplicar"
 
 msgid "Attack loading:"
-msgstr "Cargando ataque:"
+msgstr "Cargar ataque:"
 
 msgid ""
 "Attention:\n"
@@ -693,7 +693,7 @@ msgid "Audio groups"
 msgstr "Grupos de audio"
 
 msgid "Audio recording directory:"
-msgstr "Directorio de grabación de audio:"
+msgstr "Directorio de grabaciones de audio:"
 
 msgid "Audio recordings"
 msgstr "Grabaciones de audio"
@@ -711,13 +711,13 @@ msgid "BAS"
 msgstr "BAS"
 
 msgid "BPM +"
-msgstr "BPM +"
+msgstr "PPM +"
 
 msgid "BPM -"
-msgstr "BPM -"
+msgstr "PPM -"
 
 msgid "BPM:"
-msgstr "BPM:"
+msgstr "PPM:"
 
 msgid "Bach (Bradley Lehman)"
 msgstr "Bach (Bradley Lehman)"
@@ -963,7 +963,7 @@ msgid "Defaults and Initial Settings"
 msgstr "Configuraciones por defecto e iniciales"
 
 msgid "Delay (ms):"
-msgstr ""
+msgstr "Retraso (ms):"
 
 msgid "Delete"
 msgstr "Borrar"
@@ -997,7 +997,7 @@ msgid "Device: %s [%d ms requested]"
 msgstr ""
 
 msgid "Direct Sound:"
-msgstr ""
+msgstr "Sonido directo:"
 
 msgid "DirectSound"
 msgstr ""
@@ -1022,7 +1022,7 @@ msgid "Do you want to remove %s?"
 msgstr ""
 
 msgid "Don't load"
-msgstr ""
+msgstr "No cargarlas"
 
 msgid "Drawstop"
 msgstr "Tirador"
@@ -1068,7 +1068,7 @@ msgid "Empty at section '%s' entry '%s'"
 msgstr ""
 
 msgid "Enable Convolution Reverb"
-msgstr ""
+msgstr "Habilitar Reverberación de Circunvolución"
 
 msgid "Enabled"
 msgstr ""
@@ -1460,7 +1460,7 @@ msgid "Import Settings"
 msgstr "Importar Configuraciones"
 
 msgid "Impulse response:"
-msgstr ""
+msgstr "Respuesta al impulso:"
 
 msgid "Incompatible host API specific stream info"
 msgstr ""
@@ -1747,7 +1747,7 @@ msgid "Longest loop"
 msgstr "Bucle más largo"
 
 msgid "Loop loading:"
-msgstr "Cargando bucle:"
+msgstr "Cargar bucle:"
 
 msgid "Loop too short for a cross fade"
 msgstr "Bucle demasiado corto para un cross fade"
@@ -1756,7 +1756,7 @@ msgid "Loop too short for crossfade"
 msgstr "Bucle demasiado corto para crossfade"
 
 msgid "Lossless compression"
-msgstr "Compresión sin pérdida"
+msgstr "Compresión sin pérdidas"
 
 msgid "Lossless compression:"
 msgstr "Compresión sin pérdida:"
@@ -1810,7 +1810,7 @@ msgid "MIDI header missing"
 msgstr "Falta la cabecera MIDI"
 
 msgid "MIDI recording directory:"
-msgstr "Directorio de grabación MIDI:"
+msgstr "Directorio de grabaciones MIDI:"
 
 msgid "MIDI recordings"
 msgstr "Grabaciones MIDI"
@@ -1957,7 +1957,7 @@ msgid "Midi & Audio Settings"
 msgstr "Configuraciones Midi & Audio"
 
 msgid "Midi player directory:"
-msgstr "Directorio del reproductor Midi:"
+msgstr "Directorio del reproductor MIDI:"
 
 #, c-format
 msgid "Midi-Settings for %s - %s"
@@ -2174,7 +2174,7 @@ msgid "Organ package (*.orgue)|*.orgue"
 msgstr "Paquete de órgano (*.orgue)|*.orgue"
 
 msgid "Organ package directory:"
-msgstr "Directorio del paquete del órgano:"
+msgstr "Directorio de paquetes del órgano:"
 
 msgid "Organ packages"
 msgstr "Paquetes de órganos"
@@ -2419,7 +2419,7 @@ msgid "Release Concurrency Level:"
 msgstr ""
 
 msgid "Release loading:"
-msgstr ""
+msgstr "Cargar decaimiento"
 
 msgid "Release sample scaling"
 msgstr ""
@@ -2501,7 +2501,7 @@ msgid "Samples per buffer:"
 msgstr "Muestras por buffer:"
 
 msgid "Sampleset directory:"
-msgstr "Directorio del sampleset:"
+msgstr "Directorio del sets de muestras:"
 
 msgid "Sauveur (Memoires 1701)"
 msgstr "Sauveur (Memoires 1701)"
@@ -2624,10 +2624,10 @@ msgstr ""
 "de stereo?"
 
 msgid "Single attack"
-msgstr ""
+msgstr "Un solo ataque"
 
 msgid "Single release"
-msgstr ""
+msgstr "Un solo decaimiento"
 
 msgid "Smith's (Robert) Equal Harmony 1749"
 msgstr ""
@@ -2668,7 +2668,7 @@ msgid "Start of audio stream of %s failed: %s"
 msgstr "El comienzo de flujo de audio de %s falló: %s"
 
 msgid "Start offset:"
-msgstr ""
+msgstr "Offset de comienzo:"
 
 #, c-format
 msgid "Status byte missing at offset %d"
@@ -2761,7 +2761,7 @@ msgid "Thomas/Philpott 1829/1881 organ, St. Jansklooster"
 msgstr ""
 
 msgid "Ticks per Measure:"
-msgstr ""
+msgstr "Partes por compás:"
 
 msgid "Title"
 msgstr "Nombre"
