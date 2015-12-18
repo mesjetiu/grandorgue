@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-17 01:44+0100\n"
+"PO-Revision-Date: 2015-12-18 01:36+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -205,7 +205,7 @@ msgid "&Install organ package\tCtrl+I"
 msgstr "&Instalar paquete de órgano\tCtrl+I"
 
 msgid "&Listen for Event"
-msgstr "&Escuchar Evento"
+msgstr "&Esperar Evento MIDI"
 
 msgid "&Load\tCtrl+L"
 msgstr "&Cargar\tCtrl+L"
@@ -1118,7 +1118,7 @@ msgid "Error while loading samples for rank %s pipe %s: %s"
 msgstr "Error al cargar muestras para fila %s tubo %s: %s"
 
 msgid "Event-&No"
-msgstr ""
+msgstr "Evento-&nº"
 
 #, c-format
 msgid "Events after end of track marker at %d"
@@ -1405,10 +1405,10 @@ msgid "H"
 msgstr "H"
 
 msgid "H&ighest velocity:"
-msgstr "H&ighest velocity:"
+msgstr "Mayor veloc&idad:"
 
 msgid "Harpsichord/Piano/Monochord"
-msgstr "Clave/Piano/Nonocordio"
+msgstr "Clave/Piano/Monocordio"
 
 msgid "Henri Arnaut De Zwolle. (1436)."
 msgstr "Henri Arnaut De Zwolle. (1436)."
@@ -1692,7 +1692,7 @@ msgid "L&ower limit:"
 msgstr ""
 
 msgid "L&owest velocity:"
-msgstr ""
+msgstr "Men&or velocidad:"
 
 msgid "Label"
 msgstr "Etiqueta"
@@ -1817,7 +1817,7 @@ msgstr "Grabaciones MIDI"
 
 #, c-format
 msgid "MIDI settings for organ %s"
-msgstr "Configuraciones MIDI para órgano %s"
+msgstr "Configuraciones MIDI para el órgano %s"
 
 msgid "MISSING - "
 msgstr ""
@@ -2393,7 +2393,7 @@ msgid "Read from the archive failed (%d bytes)"
 msgstr ""
 
 msgid "Receive"
-msgstr ""
+msgstr "Recibir"
 
 msgid "Record stereo downmix"
 msgstr ""
@@ -2739,6 +2739,8 @@ msgstr ""
 
 msgid "The organ settings have been modified. Do you want to save the changes?"
 msgstr ""
+"Las configuraciones del órgano han sido modificadas. ¿Quiere guardar los "
+"cambios?"
 
 #, c-format
 msgid ""
@@ -2919,7 +2921,7 @@ msgid "Wegscheider 20 note"
 msgstr ""
 
 msgid "Well tempered"
-msgstr "Bueno temperamentos"
+msgstr "Buenos temperamentos"
 
 msgid "Werckmeister 4 (1691)"
 msgstr "Werckmeister 4 (1691)"
