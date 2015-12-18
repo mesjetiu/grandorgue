@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-18 01:36+0100\n"
+"PO-Revision-Date: 2015-12-18 01:43+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -908,7 +908,7 @@ msgstr "Acoplamiento"
 
 #, c-format
 msgid "Coupler %s"
-msgstr "Acoplamiento al %s"
+msgstr "Acoplamiento a %s"
 
 msgid "Coupler manuals and volume"
 msgstr "Manuales de acoplamiento y volumen"
