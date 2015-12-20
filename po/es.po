@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-20 13:48+0100\n"
+"PO-Revision-Date: 2015-12-20 14:02+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -1077,25 +1077,25 @@ msgid "Enclosure"
 msgstr "Pedal"
 
 msgid "Enclosure 1"
-msgstr ""
+msgstr "Pedal 1"
 
 msgid "Enclosure 2"
-msgstr ""
+msgstr "Pedal 2"
 
 msgid "Enclosure 3"
-msgstr ""
+msgstr "Pedal 3"
 
 msgid "Enclosure 4"
-msgstr ""
+msgstr "Pedal 4"
 
 msgid "Enclosure 5"
-msgstr ""
+msgstr "Pedal 5"
 
 msgid "Enclosure 6"
-msgstr ""
+msgstr "Pedal 6"
 
 msgid "Enclosures"
-msgstr ""
+msgstr "Pedales"
 
 #, c-format
 msgid "End of track marker missing at offset %d"
@@ -3113,7 +3113,7 @@ msgid "e"
 msgstr "mi"
 
 msgid "enclosure not found"
-msgstr ""
+msgstr "pedal no encontrado"
 
 msgid "end"
 msgstr "fin"
