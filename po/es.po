@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: GrandOrgue\n"
 "Report-Msgid-Bugs-To: ourorgan-developers@lists.sourceforge.net\n"
 "POT-Creation-Date: 2015-12-08 14:07+0100\n"
-"PO-Revision-Date: 2015-12-18 02:35+0100\n"
+"PO-Revision-Date: 2015-12-20 13:48+0100\n"
 "Last-Translator: Carlos Arturo Guerra Parra <carlosarturoguerra@gmail.com>\n"
 "Language-Team: Spanish <carlosarturoguerra@gmail.com>\n"
 "Language: es_ES\n"
@@ -553,7 +553,7 @@ msgstr "<Archivo WAV no soportado"
 
 #, c-format
 msgid "<unknown> %d"
-msgstr "<desconocido> %d"
+msgstr "<unknown> %d"
 
 msgid ">"
 msgstr ">"
@@ -699,7 +699,7 @@ msgid "Audio recordings"
 msgstr "Grabaciones de audio"
 
 msgid "Audio/Midi &Settings"
-msgstr "&Configuración Audio/Midi"
+msgstr "Configuración Audio/Midi"
 
 msgid "Automatically manage cache"
 msgstr "Gestionar caché automáticamente"
@@ -2419,7 +2419,7 @@ msgid "Release Concurrency Level:"
 msgstr ""
 
 msgid "Release loading:"
-msgstr "Cargar decaimiento"
+msgstr "Cargar decaimiento:"
 
 msgid "Release sample scaling"
 msgstr ""
@@ -2755,7 +2755,7 @@ msgstr ""
 "%s"
 
 msgid "This feature is currently not supported."
-msgstr "Esta característica no está soportada actualmente"
+msgstr "Esta característica no está soportada actualmente."
 
 msgid "Thomas/Philpott 1829/1881 organ, St. Jansklooster"
 msgstr ""
@@ -2916,7 +2916,7 @@ msgid "WASAPI"
 msgstr "WASAPI"
 
 msgid "WAV files (*.wav)|*.wav"
-msgstr "archivos WAV (*.wav)|*.wav"
+msgstr "Archivos WAV (*.wav)|*.wav"
 
 msgid "Wait timed out"
 msgstr "Tiempo de espera terminado"
@@ -2962,7 +2962,7 @@ msgid "Windows left"
 msgstr "Windows izquierda"
 
 msgid "Windows menu"
-msgstr "menú de Windows"
+msgstr "Menú de Windows"
 
 msgid "Windows right"
 msgstr "Windows derecha"
@@ -2989,7 +2989,7 @@ msgid "ZIP64 uses not supported features"
 msgstr "ZIP64 usa características no soportadas"
 
 msgid "Zarlino (1558) 2/7-comma meantone"
-msgstr "Zarlino (1558) Mesotónico 2/7-coma"
+msgstr "Zarlino (1558) mesotónico de 2/7 de coma"
 
 msgid "Zip64 end record not found"
 msgstr "Registro de final de Zip64 no encontrado"
